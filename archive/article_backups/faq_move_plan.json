@@ -1,0 +1,346 @@
+{
+  "total_faqs": 30,
+  "general_faqs": 22,
+  "product_specific_faqs": 8,
+  "product_groups": {
+    "PowerArQ2": [
+      {
+        "question": "バッテリーセルの個数は？",
+        "answer": "PowerArQ2：合計電池が3つ直列で接続しているため内部電圧が11Vとなっており、スペック上は45000mAhと言う表記になってますがバッテリーセル一つあたりの定格電圧である3.7Vで計算しなおすと、135,000mAhとなります。よって、135,000mAh/2500mAh=54(個)となります。",
+        "category": "商品固有 (PowerArQ2, PowerArQ)",
+        "detected_products": [
+          "PowerArQ2",
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "バッテリーのメーカーは？",
+        "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+        "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+        "detected_products": [
+          "PowerArQ mini",
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "PowerArQ Pro"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      },
+      {
+        "question": "オートチャージ機能とは？",
+        "answer": "INPUTに接続するだけで充電開始される仕組みです。\r\nPowerArQ2、PowerArQ3などはPOWERボタンをONにしないと充電を開始しませんが、ACアダプターを差し込むだけで充電が開始されます。ソーラーパネルも同様です（発電されている時のみ充電されます）。",
+        "category": "商品固有 (PowerArQ3, PowerArQ2, PowerArQ, Solar)",
+        "detected_products": [
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "Solar"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "定格容量と定格エネルギーの違いはなんですか？",
+        "answer": "定格容量は、放電容量という意味で、定格エネルギーが取り出せる（蓄えられる）電気の量です。\r\n「定格容量」と「定格エネルギー」は同じです。\r\n定格容量→Wh\r\n定格エネルギー→mAh×V（公称電圧）\r\n\r\n>mAhとWhって何？\r\nWhは電力量のことで、mAhは放電容量のことです。\r\nWhは「mAh × V」で計算することができます。\r\n現実の製品では様々な電圧のものがあり、同じmAh(放電容量)でも電圧(V)によってWh(電力量)が変化します。\r\nそのため、容量を比較する際は、Whでご確認いただければ幸いです。なお、商品LPでは他社製品と同じ条件で値を比較したいので、下記のように「電池容量」と「定格容量」という2項目で表示しています。\r\n\r\n<details><summary>計算式の詳細を見る</summary><span style=\"font-size: 80%\">電力量は、以下の計算式で算出されます。\r\n「ワット時定格量(Wh)＝定格容量(Ah) × 定格電圧(V)」\r\n▼PowerArQ\r\n174,000(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 626.4(Wh)\r\n\r\n▼PowerArQmini\r\n86,400(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 311.04(Wh)\r\n\r\n▼PowerArQ2\r\n45,000(mAh) ÷ 1,000(単位変換） × 11.1（V） =  499.5(Wh)",
+        "category": "商品固有 (PowerArQ2, PowerArQ)",
+        "detected_products": [
+          "PowerArQ2",
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ],
+    "PowerArQ": [
+      {
+        "question": "バッテリーセルの個数は？",
+        "answer": "PowerArQ2：合計電池が3つ直列で接続しているため内部電圧が11Vとなっており、スペック上は45000mAhと言う表記になってますがバッテリーセル一つあたりの定格電圧である3.7Vで計算しなおすと、135,000mAhとなります。よって、135,000mAh/2500mAh=54(個)となります。",
+        "category": "商品固有 (PowerArQ2, PowerArQ)",
+        "detected_products": [
+          "PowerArQ2",
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "バッテリーのメーカーは？",
+        "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+        "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+        "detected_products": [
+          "PowerArQ mini",
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "PowerArQ Pro"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      },
+      {
+        "question": "ナガジックとは？",
+        "answer": "「長山マジック」の略。\r\nお客様から申告があった不具合内容が、弊社では正常に動作し、不具合の確認が取れない現象を指します。\r\n（長山がPowerArQの修理をし過ぎたため、遂に触っただけで直せている可能性があるので 長山マジック=ナガジック と命名）",
+        "category": "商品固有 (PowerArQ)",
+        "detected_products": [
+          "PowerArQ"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      },
+      {
+        "question": "オートチャージ機能とは？",
+        "answer": "INPUTに接続するだけで充電開始される仕組みです。\r\nPowerArQ2、PowerArQ3などはPOWERボタンをONにしないと充電を開始しませんが、ACアダプターを差し込むだけで充電が開始されます。ソーラーパネルも同様です（発電されている時のみ充電されます）。",
+        "category": "商品固有 (PowerArQ3, PowerArQ2, PowerArQ, Solar)",
+        "detected_products": [
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "Solar"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "放電深度（DoD）も考慮して、実質使える電力の計算方法",
+        "answer": "**PowerArQシリーズのDoD：95%-98% ／ 交換効率: 85%**\r\n上記を踏まえて、以下の計算方法で確認できます。\r\n定格エネルギー×95%×85%=実質使える電力\r\n\r\n（例：PowerArQ mini2の場合）\r\n300×95%×85%=242.25Wh",
+        "category": "商品固有 (PowerArQ, PowerArQ mini, PowerArQ mini2)",
+        "detected_products": [
+          "PowerArQ",
+          "PowerArQ mini",
+          "PowerArQ mini2"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "「入力」とは？",
+        "answer": "PowerArQ本体に電力をいれる事です。ほとんどの場合、充電の事を指します。",
+        "category": "商品固有 (PowerArQ)",
+        "detected_products": [
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "「出力」とは？",
+        "answer": "PowerArQ本体から電力を外に出すことです。何か機器を接続して電力を出すことなどを指します。",
+        "category": "商品固有 (PowerArQ)",
+        "detected_products": [
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      },
+      {
+        "question": "定格容量と定格エネルギーの違いはなんですか？",
+        "answer": "定格容量は、放電容量という意味で、定格エネルギーが取り出せる（蓄えられる）電気の量です。\r\n「定格容量」と「定格エネルギー」は同じです。\r\n定格容量→Wh\r\n定格エネルギー→mAh×V（公称電圧）\r\n\r\n>mAhとWhって何？\r\nWhは電力量のことで、mAhは放電容量のことです。\r\nWhは「mAh × V」で計算することができます。\r\n現実の製品では様々な電圧のものがあり、同じmAh(放電容量)でも電圧(V)によってWh(電力量)が変化します。\r\nそのため、容量を比較する際は、Whでご確認いただければ幸いです。なお、商品LPでは他社製品と同じ条件で値を比較したいので、下記のように「電池容量」と「定格容量」という2項目で表示しています。\r\n\r\n<details><summary>計算式の詳細を見る</summary><span style=\"font-size: 80%\">電力量は、以下の計算式で算出されます。\r\n「ワット時定格量(Wh)＝定格容量(Ah) × 定格電圧(V)」\r\n▼PowerArQ\r\n174,000(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 626.4(Wh)\r\n\r\n▼PowerArQmini\r\n86,400(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 311.04(Wh)\r\n\r\n▼PowerArQ2\r\n45,000(mAh) ÷ 1,000(単位変換） × 11.1（V） =  499.5(Wh)",
+        "category": "商品固有 (PowerArQ2, PowerArQ)",
+        "detected_products": [
+          "PowerArQ2",
+          "PowerArQ"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ],
+    "PowerArQ mini": [
+      {
+        "question": "バッテリーのメーカーは？",
+        "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+        "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+        "detected_products": [
+          "PowerArQ mini",
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "PowerArQ Pro"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      },
+      {
+        "question": "放電深度（DoD）も考慮して、実質使える電力の計算方法",
+        "answer": "**PowerArQシリーズのDoD：95%-98% ／ 交換効率: 85%**\r\n上記を踏まえて、以下の計算方法で確認できます。\r\n定格エネルギー×95%×85%=実質使える電力\r\n\r\n（例：PowerArQ mini2の場合）\r\n300×95%×85%=242.25Wh",
+        "category": "商品固有 (PowerArQ, PowerArQ mini, PowerArQ mini2)",
+        "detected_products": [
+          "PowerArQ",
+          "PowerArQ mini",
+          "PowerArQ mini2"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ],
+    "PowerArQ3": [
+      {
+        "question": "バッテリーのメーカーは？",
+        "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+        "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+        "detected_products": [
+          "PowerArQ mini",
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "PowerArQ Pro"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      },
+      {
+        "question": "オートチャージ機能とは？",
+        "answer": "INPUTに接続するだけで充電開始される仕組みです。\r\nPowerArQ2、PowerArQ3などはPOWERボタンをONにしないと充電を開始しませんが、ACアダプターを差し込むだけで充電が開始されます。ソーラーパネルも同様です（発電されている時のみ充電されます）。",
+        "category": "商品固有 (PowerArQ3, PowerArQ2, PowerArQ, Solar)",
+        "detected_products": [
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "Solar"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ],
+    "PowerArQ Pro": [
+      {
+        "question": "バッテリーのメーカーは？",
+        "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+        "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+        "detected_products": [
+          "PowerArQ mini",
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "PowerArQ Pro"
+        ],
+        "is_general": false,
+        "is_product_specific": true
+      }
+    ],
+    "Solar": [
+      {
+        "question": "オートチャージ機能とは？",
+        "answer": "INPUTに接続するだけで充電開始される仕組みです。\r\nPowerArQ2、PowerArQ3などはPOWERボタンをONにしないと充電を開始しませんが、ACアダプターを差し込むだけで充電が開始されます。ソーラーパネルも同様です（発電されている時のみ充電されます）。",
+        "category": "商品固有 (PowerArQ3, PowerArQ2, PowerArQ, Solar)",
+        "detected_products": [
+          "PowerArQ3",
+          "PowerArQ2",
+          "PowerArQ",
+          "Solar"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ],
+    "PowerArQ mini2": [
+      {
+        "question": "放電深度（DoD）も考慮して、実質使える電力の計算方法",
+        "answer": "**PowerArQシリーズのDoD：95%-98% ／ 交換効率: 85%**\r\n上記を踏まえて、以下の計算方法で確認できます。\r\n定格エネルギー×95%×85%=実質使える電力\r\n\r\n（例：PowerArQ mini2の場合）\r\n300×95%×85%=242.25Wh",
+        "category": "商品固有 (PowerArQ, PowerArQ mini, PowerArQ mini2)",
+        "detected_products": [
+          "PowerArQ",
+          "PowerArQ mini",
+          "PowerArQ mini2"
+        ],
+        "is_general": true,
+        "is_product_specific": true
+      }
+    ]
+  },
+  "faqs_to_move": [
+    {
+      "question": "バッテリーセルの個数は？",
+      "answer": "PowerArQ2：合計電池が3つ直列で接続しているため内部電圧が11Vとなっており、スペック上は45000mAhと言う表記になってますがバッテリーセル一つあたりの定格電圧である3.7Vで計算しなおすと、135,000mAhとなります。よって、135,000mAh/2500mAh=54(個)となります。",
+      "category": "商品固有 (PowerArQ2, PowerArQ)",
+      "detected_products": [
+        "PowerArQ2",
+        "PowerArQ"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    },
+    {
+      "question": "バッテリーのメーカーは？",
+      "answer": "PowerArQ、PowerArq mini、PowerArQ Proは東磁製。PowerArQ3、PowerArQ2、PowerArQ mini 2はLoreStar製です。※過去のロットでは、PowerArQ、PowerArq miniはBAKの時、PowerArQはLG製の時もあります。",
+      "category": "商品固有 (PowerArQ mini, PowerArQ3, PowerArQ2, PowerArQ, PowerArQ Pro)",
+      "detected_products": [
+        "PowerArQ mini",
+        "PowerArQ3",
+        "PowerArQ2",
+        "PowerArQ",
+        "PowerArQ Pro"
+      ],
+      "is_general": false,
+      "is_product_specific": true
+    },
+    {
+      "question": "ナガジックとは？",
+      "answer": "「長山マジック」の略。\r\nお客様から申告があった不具合内容が、弊社では正常に動作し、不具合の確認が取れない現象を指します。\r\n（長山がPowerArQの修理をし過ぎたため、遂に触っただけで直せている可能性があるので 長山マジック=ナガジック と命名）",
+      "category": "商品固有 (PowerArQ)",
+      "detected_products": [
+        "PowerArQ"
+      ],
+      "is_general": false,
+      "is_product_specific": true
+    },
+    {
+      "question": "オートチャージ機能とは？",
+      "answer": "INPUTに接続するだけで充電開始される仕組みです。\r\nPowerArQ2、PowerArQ3などはPOWERボタンをONにしないと充電を開始しませんが、ACアダプターを差し込むだけで充電が開始されます。ソーラーパネルも同様です（発電されている時のみ充電されます）。",
+      "category": "商品固有 (PowerArQ3, PowerArQ2, PowerArQ, Solar)",
+      "detected_products": [
+        "PowerArQ3",
+        "PowerArQ2",
+        "PowerArQ",
+        "Solar"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    },
+    {
+      "question": "放電深度（DoD）も考慮して、実質使える電力の計算方法",
+      "answer": "**PowerArQシリーズのDoD：95%-98% ／ 交換効率: 85%**\r\n上記を踏まえて、以下の計算方法で確認できます。\r\n定格エネルギー×95%×85%=実質使える電力\r\n\r\n（例：PowerArQ mini2の場合）\r\n300×95%×85%=242.25Wh",
+      "category": "商品固有 (PowerArQ, PowerArQ mini, PowerArQ mini2)",
+      "detected_products": [
+        "PowerArQ",
+        "PowerArQ mini",
+        "PowerArQ mini2"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    },
+    {
+      "question": "「入力」とは？",
+      "answer": "PowerArQ本体に電力をいれる事です。ほとんどの場合、充電の事を指します。",
+      "category": "商品固有 (PowerArQ)",
+      "detected_products": [
+        "PowerArQ"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    },
+    {
+      "question": "「出力」とは？",
+      "answer": "PowerArQ本体から電力を外に出すことです。何か機器を接続して電力を出すことなどを指します。",
+      "category": "商品固有 (PowerArQ)",
+      "detected_products": [
+        "PowerArQ"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    },
+    {
+      "question": "定格容量と定格エネルギーの違いはなんですか？",
+      "answer": "定格容量は、放電容量という意味で、定格エネルギーが取り出せる（蓄えられる）電気の量です。\r\n「定格容量」と「定格エネルギー」は同じです。\r\n定格容量→Wh\r\n定格エネルギー→mAh×V（公称電圧）\r\n\r\n>mAhとWhって何？\r\nWhは電力量のことで、mAhは放電容量のことです。\r\nWhは「mAh × V」で計算することができます。\r\n現実の製品では様々な電圧のものがあり、同じmAh(放電容量)でも電圧(V)によってWh(電力量)が変化します。\r\nそのため、容量を比較する際は、Whでご確認いただければ幸いです。なお、商品LPでは他社製品と同じ条件で値を比較したいので、下記のように「電池容量」と「定格容量」という2項目で表示しています。\r\n\r\n<details><summary>計算式の詳細を見る</summary><span style=\"font-size: 80%\">電力量は、以下の計算式で算出されます。\r\n「ワット時定格量(Wh)＝定格容量(Ah) × 定格電圧(V)」\r\n▼PowerArQ\r\n174,000(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 626.4(Wh)\r\n\r\n▼PowerArQmini\r\n86,400(mAh) ÷ 1,000(単位変換)× 3.6(V) ＝ 311.04(Wh)\r\n\r\n▼PowerArQ2\r\n45,000(mAh) ÷ 1,000(単位変換） × 11.1（V） =  499.5(Wh)",
+      "category": "商品固有 (PowerArQ2, PowerArQ)",
+      "detected_products": [
+        "PowerArQ2",
+        "PowerArQ"
+      ],
+      "is_general": true,
+      "is_product_specific": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 1356395,
+  "title": "【PowerArQ】製品ごとの取扱説明書 バージョン変更履歴",
+  "body": "# 目次\r\n\r\n## PowerArQシリーズ\r\n\r\n- [PowerArQ 1](#hte008)\r\n- [PowerArQ mini](#hte032)\r\n- [PowerArQ 2](#ac50)\r\n- [PowerArQ Pro](#hte060)\r\n- [PowerArQ mini 2](#ac30)\r\n- [PowerArQ 3](#pa50)\r\n- [PowerArQ S7](#pa70)\r\n- [PowerArQ Max](#pa200)\r\n\r\n## ソーラーパネル\r\n\r\n- [PowerArQ Solar 120W 3枚折り](#l0829)\r\n- [PowerArQ Solar 120W 2枚折り](#l0977)\r\n- [PowerArQ Solar 210W](#l0838)\r\n\r\n\r\n\r\n## その他\r\n\r\n-  [PowerArQ Point Cooler](#powerarq-point-cooler-ポイントクーラー)\r\n- [PowerArQ Cooling Vest](#powerarq-cooling-vest-冷却ベスト)\r\n- [PowerArQ PowerBank3 A10000](#powerarq-powerbank3-a10000-モバイルバッテリー)\r\n- [ICEBERG 12L](#iceberg-12l)\r\n- [PowerArQ Inverter Generator](#powerarq-inverter-generator)\r\n\r\n\r\n- - -\r\n\r\n# ICEBERG 12L<a id=\"iceberg-12l\"></a>\r\n\r\n## 1.0ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | 初回ロット同梱分 | ICEBERG 12L初回ロット版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n初回リリース版。取扱説明書の詳細については該当ファイルを参照。\r\n\r\n# PowerArQ Inverter Generator<a id=\"powerarq-inverter-generator\"></a>\r\n\r\n## 1.0ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | 初回ロット同梱分 | PowerArQ Inverter Generator初回ロット版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n初回リリース版。取扱説明書の詳細については該当ファイルを参照。\r\n\r\n## 1.1ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | 第2ロット以降 | PowerArQ Inverter Generator改良版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.0verからの変更点を確認中。詳細については該当ファイルを参照。",
+  "draft": false,
+  "archived": false,
+  "url": "https://go.docbase.io/posts/1356395",
+  "created_at": "2020-05-14T17:18:08+09:00",
+  "published_at": "2020-05-22T16:36:44+09:00",
+  "updated_at": "2025-08-20T13:10:06+09:00",
+  "scope": "group",
+  "tags": [
+    {
+      "name": "{\"name\"=>\"SmartTap\"}"
+    },
+    {
+      "name": "{\"name\"=>\"ノウハウ\"}"
+    }
+  ],
+  "user": {
+    "id": 33561,
+    "name": "前園 拓真",
+    "profile_image_url": "https://image.docbase.io/uploads/6a7aed2f-593e-40e3-b18e-7a9d8b3b8df5-128x128c.jpg"
+  },
+  "stars_count": 5,
+  "good_jobs_count": 0,
+  "sharing_url": null,
+  "representative_image_url": null,
+  "comments_count": 0,
+  "groups": [
+    {
+      "id": 10481,
+      "name": "CS（加島商事）"
+    }
+  ],
+  "attachments": []
+}

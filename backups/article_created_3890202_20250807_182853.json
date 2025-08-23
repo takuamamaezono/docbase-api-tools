@@ -1,0 +1,41 @@
+{
+  "id": 3890202,
+  "title": "Adobe Illustrator Search Plugin - Hammerspoon実装ガイド",
+  "body": "# Adobe Illustrator Search Plugin - Hammerspoon実装ガイド\r\n\r\n## 概要\r\n\r\nAdobe Illustrator用のSpotlight風検索プラグインです。Hammerspoonを使って、よく使うメニュー項目やフォントを素早く検索・実行できます。\r\n\r\nnote記事「[Adobe Illustratorプラグイン](https://note.com/sttk3com/n/n9a80628a3f12)」の実装を参考に、macOS環境向けに最適化して作成しました。\r\n\r\n## 主な機能\r\n\r\n### 1. メニュー検索機能\r\n- よく使うIllustratorのメニュー項目を瞬時に検索\r\n- 50以上の頻繁に使用される機能を網羅\r\n- 絵文字アイコンで視覚的に分かりやすく表示\r\n\r\n### 2. フォント検索機能\r\n- 主要なフォントを素早く選択可能\r\n- 文字パネルの自動表示\r\n- 日本語・英語フォントに対応\r\n\r\n### 3. 高速アクセス\r\n- キーボードショートカットのみで操作完了\r\n- Spotlight/Alfred風の直感的なインターフェース\r\n- 日本語での検索に完全対応\r\n\r\n## インストールと設定\r\n\r\n### 前提条件\r\n- macOS環境\r\n- Hammerspoon がインストールされていること\r\n- Adobe Illustrator がインストールされていること\r\n\r\n### セットアップ手順\r\n\r\n1. **ファイルの配置**\r\n   ```\r\n   ~/.hammerspoon/illustrator_search.lua\r\n   ~/.hammerspoon/init.lua （に設定を追加）\r\n   ```\r\n\r\n2. **Hammerspoon設定の更新**\r\n   init.luaファイルに以下を追加：\r\n   ```lua\r\n   require(\"illustrator_search\")\r\n   ```\r\n\r\n3. **アクセシビリティ権限の設定**\r\n   - システム設定 > プライバシーとセキュリティ > アクセシビリティ\r\n   - Hammerspoonにチェックを入れる\r\n\r\n4. **設定の再読み込み**\r\n   - Cmd+Alt+Ctrl+R でHammerspoon設定をリロード\r\n\r\n## 使用方法\r\n\r\n### 起動ショートカット\r\n```\r\nCmd + Shift + I\r\n```\r\n\r\n### 基本操作\r\n1. ショートカットキーでプラグインを起動\r\n2. 検索窓にメニュー名やフォント名を入力\r\n3. 上下矢印キーで項目を選択\r\n4. Enterキーで実行\r\n\r\n### 検索のコツ\r\n- 「パス」「整列」「変形」など、カテゴリ名での検索が効果的\r\n- 日本語での部分検索に対応\r\n- フォント名での検索も可能\r\n\r\n## 対応メニュー項目\r\n\r\n### パス操作系\r\n- パスの変形\r\n- パスのアウトライン\r\n- パスの結合・分割・交差\r\n- パスファインダ関連機能\r\n\r\n### 整列・配置系\r\n- 左右上下への整列\r\n- 中央揃え（水平・垂直）\r\n- 重ね順の変更（前面・背面）\r\n\r\n### 変形系\r\n- 回転・拡大縮小\r\n- リフレクト・シアー\r\n- 移動・複製\r\n\r\n### エフェクト系\r\n- ガウシアンぼかし\r\n- ドロップシャドウ\r\n- 光彩エフェクト\r\n- ベベルとエンボス\r\n\r\n### 表示系\r\n- アウトライン/プレビュー表示\r\n- ガイド・グリッド表示\r\n- 定規表示\r\n\r\n### パネル系\r\n- レイヤーパネル\r\n- パスファインダパネル\r\n- スウォッチパネル\r\n- アピアランスパネル\r\n- 文字・段落パネル\r\n\r\n### ファイル操作系\r\n- 新規作成・保存\r\n- Web用書き出し\r\n- PDF保存\r\n\r\n## 対応フォント一覧\r\n\r\n### 日本語フォント\r\n- Hiragino Sans（ヒラギノ角ゴシック）\r\n- Hiragino Mincho（ヒラギノ明朝）\r\n\r\n### 英語フォント\r\n- Arial（サンセリフ）\r\n- Times New Roman（セリフ）\r\n- Helvetica（モダンサンセリフ）\r\n- Futura（モダンサンセリフ）\r\n- Minion Pro（高品質セリフ）\r\n\r\n## カスタマイズ方法\r\n\r\n### メニュー項目の追加\r\n`~/.hammerspoon/illustrator_search.lua`の`menu_items`配列に項目を追加：\r\n\r\n```lua\r\n{\"新しいメニュー名\", {\"メニューパス\", \"サブメニュー\"}, \"🆕\"},\r\n```\r\n\r\n### フォントの追加\r\n`font_styles`配列にフォントを追加：\r\n\r\n```lua\r\n{\"フォント名\", \"フォントの説明\", \"📝\"},\r\n```\r\n\r\n### ホットキーの変更\r\nファイル冒頭の設定を変更：\r\n\r\n```lua\r\nlocal hotkey = \"cmd-shift-i\"  -- 任意のキーに変更可能\r\n```\r\n\r\n## 作業効率の改善例\r\n\r\n### Before（従来の操作）\r\n1. マウスで「オブジェクト」メニューをクリック\r\n2. 「パス」サブメニューを選択\r\n3. 「パスの変形」をクリック\r\n4. 合計3回のクリック操作\r\n\r\n### After（プラグイン使用）\r\n1. Cmd+Shift+I でプラグイン起動\r\n2. 「パス変形」と入力\r\n3. Enterで実行\r\n4. 合計1つのショートカット+少しのタイピング\r\n\r\n## トラブルシューティング\r\n\r\n### プラグインが動作しない場合\r\n1. **Hammerspoonの状態確認**\r\n   - Hammerspoonアプリが起動しているか確認\r\n   - メニューバーにアイコンが表示されているか確認\r\n\r\n2. **アクセシビリティ権限の確認**\r\n   - システム設定でHammerspoonにアクセシビリティ権限が付与されているか確認\r\n\r\n3. **Illustratorの状態確認**\r\n   - Adobe Illustratorが起動しているか確認\r\n   - アクティブなドキュメントが開いているか確認\r\n\r\n4. **設定の再読み込み**\r\n   - Cmd+Alt+Ctrl+R でHammerspoon設定をリロード\r\n\r\n### メニューが見つからない場合\r\n- Illustratorのバージョンによってメニュー名が異なる場合があります\r\n- 実際のメニュー名に合わせて設定ファイルを調整してください\r\n\r\n### 検索結果が表示されない場合\r\n- 検索キーワードを短くして再度試行\r\n- 日本語入力モードと英語入力モードを切り替えて試行\r\n\r\n## 技術仕様\r\n\r\n### 開発言語・環境\r\n- **言語**: Lua\r\n- **実行環境**: Hammerspoon\r\n- **対象OS**: macOS\r\n- **対象アプリ**: Adobe Illustrator\r\n\r\n### アーキテクチャ\r\n- **検索エンジン**: hs.chooser（Hammerspoon標準）\r\n- **アプリケーション制御**: hs.application\r\n- **メニュー操作**: selectMenuItem API\r\n- **タイマー制御**: hs.timer\r\n\r\n### パフォーマンス\r\n- **起動時間**: 約0.1秒\r\n- **検索レスポンス**: リアルタイム\r\n- **メモリ使用量**: 軽微（Hammerspoon内で動作）\r\n\r\n## 今後の拡張予定\r\n\r\n### 機能拡張\r\n- **スタイル検索**: グラフィックスタイルの検索機能\r\n- **カスタムアクション**: ユーザー定義のマクロ実行\r\n- **履歴機能**: よく使う機能の履歴表示\r\n- **設定UI**: GUI経由での設定変更\r\n\r\n### 対応アプリ拡張\r\n- **Adobe Photoshop**: 同様の機能をPhotoshopにも対応\r\n- **Adobe InDesign**: レイアウトソフト向けの機能追加\r\n- **Sketch**: Webデザインツールへの対応\r\n\r\n## ライセンスと利用条件\r\n\r\n### 利用条件\r\n- 社内利用に限定\r\n- 改変・配布は自由\r\n- サポートはベストエフォート\r\n\r\n### 注意事項\r\n- Adobe製品の利用規約に準拠すること\r\n- macOSのアクセシビリティ機能を適切に使用すること\r\n- システムリソースへの影響を最小限に抑えること\r\n\r\n## サポート情報\r\n\r\n### 問い合わせ先\r\n- **開発者**: G.O（Claude Code支援）\r\n- **更新日**: 2025年8月7日\r\n- **バージョン**: 1.0\r\n\r\n### 参考資料\r\n- [Hammerspoon公式ドキュメント](https://www.hammerspoon.org/docs/)\r\n- [Adobe Illustrator ユーザーガイド](https://helpx.adobe.com/jp/illustrator/user-guide.html)\r\n- [macOS Accessibility Programming Guide](https://developer.apple.com/documentation/accessibility)\r\n\r\n---\r\n\r\nこのプラグインにより、Adobe Illustratorでの作業効率が大幅に向上し、クリエイティブな作業により集中できるようになります。",
+  "draft": false,
+  "archived": false,
+  "url": "https://go.docbase.io/posts/3890202",
+  "created_at": "2025-08-07T18:28:53+09:00",
+  "published_at": "2025-08-07T18:28:53+09:00",
+  "updated_at": "2025-08-07T18:28:53+09:00",
+  "scope": "private",
+  "tags": [
+    {
+      "name": "Hammerspoon"
+    },
+    {
+      "name": "Adobe Illustrator"
+    },
+    {
+      "name": "macOS"
+    },
+    {
+      "name": "プラグイン"
+    },
+    {
+      "name": "効率化ツール"
+    }
+  ],
+  "user": {
+    "id": 33561,
+    "name": "前園 拓真",
+    "profile_image_url": "https://image.docbase.io/uploads/6a7aed2f-593e-40e3-b18e-7a9d8b3b8df5-128x128c.jpg"
+  },
+  "stars_count": 0,
+  "good_jobs_count": 0,
+  "sharing_url": null,
+  "representative_image_url": null,
+  "comments_count": 0,
+  "groups": [],
+  "attachments": []
+}

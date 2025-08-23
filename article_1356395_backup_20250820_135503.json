@@ -1,0 +1,769 @@
+{
+  "id": 1356395,
+  "title": "【PowerArQ】製品ごとの取扱説明書 バージョン変更履歴",
+  "body": "# 目次\r\n\r\n## PowerArQシリーズ\r\n\r\n- [PowerArQ 1](#hte008)\r\n- [PowerArQ mini](#hte032)\r\n- [PowerArQ 2](#ac50)\r\n- [PowerArQ Pro](#hte060)\r\n- [PowerArQ mini 2](#ac30)\r\n- [PowerArQ 3](#pa50)\r\n- [PowerArQ S7](#pa70)\r\n- [PowerArQ Max](#pa200)\r\n\r\n## ソーラーパネル\r\n\r\n- [PowerArQ Solar 120W 3枚折り](#l0829)\r\n- [PowerArQ Solar 120W 2枚折り](#l0977)\r\n- [PowerArQ Solar 210W](#l0838)\r\n\r\n\r\n\r\n## その他\r\n\r\n-  [PowerArQ Point Cooler](#powerarq-point-cooler-ポイントクーラー)\r\n- [PowerArQ Cooling Vest](#powerarq-cooling-vest-冷却ベスト)\r\n- [PowerArQ PowerBank3 A10000](#powerarq-powerbank3-a10000-モバイルバッテリー)\r\n- [ICEBERG 12L](#iceberg-12l)\r\n- [PowerArQ Inverter Generator](#powerarq-inverter-generator)\r\n\r\n\r\n- - -\r\n\r\n# PowerArQ<a id=\"hte008\"></a>\r\n\r\n## ver表記以前（619Wh時代）\r\n\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| -(2018年4月) | 〜HTST.008 | 容量が619Wh。各ボタンは押すとビープ音が鳴る。 |\r\n\r\n※本体にロット番号の記載がないものは、こちら。\r\n\r\n> **●取扱説明書に未記載の仕様●**\r\n> ・バッテリー残量が30％の時と20%の時にディスプレイが点滅する。\r\n> <span style=\"font-size: 80%\">→バッテリー残量低下を示す。</span>\r\n> ・本体充電中はディスプレイの表示が消えない。\r\n> <span style=\"font-size: 80%\">→すぐにバッテリー残量を確認できるようにするため。</span>\r\n> AC出力をオンにしている状況下で、何も接続していない状態で0~7W程度の出力表示がされる\r\n> ・一定時間操作していない場合、最初に各出力ボタンを押下するとディスプレイが点灯する。\r\n> <span style=\"font-size: 80%\">→短い間隔で出力ボタンを押下した場合はディスプレイは点灯しない。</span>\r\n\r\n\r\n>HTST.009からバッテリーがLG製からBAK製に変更、それに伴い容量が619Whから626Whになる\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n619Whモデルのお客様の場合は、こちらの説明書想定で対応ください。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) 619Wh\\_l0810manual.pdf](https://docbase.io/file_attachments/5f1ed782-9485-49c8-8342-67173bbfaaa6.pdf)\r\n\r\n## ver1.0（旧仕様時代）※説明書のver表記なし\r\n\r\n| 　　バージョン　　  | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| 1.0  |  〜HTST015 | 旧仕様25V入力固定。充電中はINPUTランプが赤点滅→充電満了時は赤点灯になる。緑点灯するのはACアダプター側。(ACアダプターによっては赤点灯の場合がある)AC出力ON時はファンが回転する。各ボタンは押すとビープ音が鳴る。 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nLINE保証登録案内なし\r\n\r\n[![pdf](/images/file_icons/pdf.svg) 20190411ver\\_l0810\\_manual\\_ol.pdf](https://docbase.io/file_attachments/f2e0f2bd-a5cc-41a1-9a9d-05a144949fe9.pdf)\r\n\r\n## ver2.0（新仕様時代）※説明書のver表記なし\r\n\r\n| 　　バージョン　　  | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 2.0  | HTST017〜 |ディスプレイ表示の意匠の変更。<br>インプットランプの色が青色になり常時点灯に変更。<br>各出力ボタンの色が緑色に変更。<br>ACボタンを押しても内臓ファンがすぐには回転せず負荷によって自動制御されるように変更。<br>INPUT入力電圧が、25.2Vから12-30Vに電圧範囲が拡大。<br>付属品にMC4ケーブルとシガーケーブルを追加。ビープ音を無音化\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n上記、仕様部分の該当箇所を変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0810\\_manual\\_12V-30V\\_ol.pdf](https://docbase.io/file_attachments/8782cffa-b33b-46ff-b0f2-e97d50bb0e56.pdf)\r\n\r\n\r\n## ver3.0\r\n\r\n| 　　バージョン　　  | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 3.0 |  | 仕様面での変更はなし | \r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n#### 変更前（ver2.0）\r\n![スクリーンショット 2022-08-30 13.04.30.png](https://image.docbase.io/uploads/eca76572-6a16-4f25-8ed2-7c15b119c735.png =WxH)\r\n\r\n#### 変更後（ver3.0）\r\n\r\n![スクリーンショット 2022-08-30 13.04.37.png](https://image.docbase.io/uploads/b9022f22-ddaf-45c8-8964-8cfdd82cf561.png =WxH)\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) hte008\\_manual\\_12-30V\\_3.0\\_ol.pdf](https://docbase.io/file_attachments/d4e8169d-e494-446d-a9bc-88ddb61a7c4d.pdf)\r\n\r\n非正規店舗以外は受け付けられない旨と、\r\n正規店舗一覧を記載したページのQRコードの追記\r\n\r\n## ver4.0\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　仕様 |\r\n| --- | --- | --- |\r\n| 4.0 | HTST028〜 |バッテリーがBAK→東磁に変更。DC12V出力の表記が「12-13.3V 120WMAX」に、DC入力の表記が3.5A→3.75Aに変更。シガーソケットからの充電が最大40W→最大80Wに変更。トランシーバー干渉改善。重さ6.0kg→6.2kgに変更。\t\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n上記、仕様部分の該当箇所を変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) hte008\\_manual\\_12-30V\\_4.0\\_ol.pdf](https://docbase.io/file_attachments/47ab8f2f-89a5-4ebf-86f4-cb40550430ac.pdf)\r\n\r\n## ver5.0（2022/08/26現在最新）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| 5.0 |  | 仕様面の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nデザインを変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) hte008\\_manual\\_12-30V\\_5.0.pdf](https://docbase.io/file_attachments/cde78d6e-ca50-46c5-a743-ebd5d27f2060.pdf)\r\n\r\n## ver5.2（2023/10/13現在最新）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| 5.2 |  | 仕様面の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n廃棄方法についての案内を追記\r\n\r\n![スクリーンショット 2023-10-13 13.12.45.png](https://image.docbase.io/uploads/918b0d8f-4dba-4e56-a608-573896c0b8f0.png =WxH)\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) hte008\\_manual\\_12-30V\\_5.2\\_ol.pdf](https://docbase.io/file_attachments/310cb346-6d5b-4c66-b034-73c2e10253ae.pdf)\r\n\r\n\r\n\r\n# PowerArQ mini<a id=\"hte032\"></a>\r\n\r\n## 1.0ver（311Wh時代） ※説明書のver表記なし\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 1.0| HTST020 | 低出力使用時は、3~4時間で自動電源オフ機能が働いてしまう。 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nLINE保証登録案内なし\r\n\r\n[![pdf](/images/file_icons/pdf.svg) 201903ver\\_HTE032\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/7fa34216-379a-4b48-a7b4-5ac3cb00b237.pdf)\r\n\r\n## 2.0ver （311Wh時代）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| 2.0 | HTST023 | |\r\n\r\n### 説明書内の注意事項・変更点\r\n LINE保証登録案内を追加\r\n \r\n [![pdf](/images/file_icons/pdf.svg) HTE032\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/5f949b20-d464-4642-b1f1-3e4ea3f6c88f.pdf)\r\n\r\n## 3.0ver（311Wh時代）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 3.0 | HTST024 | ACアダプター変更（70W→65W） |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n上記、仕様部分の該当箇所を変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE032\\_ Manual\\_3.0\\_ol.pdf](https://docbase.io/file_attachments/02f3fca8-43a6-4e3d-823e-9a6e8d3ba0ae.pdf)\r\n\r\n\r\n\r\n## 4.0ver（346Wh時代）\r\n\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 4.0 | HTST025〜 |バッテリーメーカー変更（BAK2400→東磁2600）。容量変更（311Wh→346Wh）\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n上記、仕様部分の該当箇所を変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE032\\_ Manual\\_4.0\\_ol.pdf](https://docbase.io/file_attachments/bc86286f-d342-4a1a-8143-3343d1a3019c.pdf)\r\n\r\n\r\n## 5.0ver（2022/08/26現在最新）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　仕様 |\r\n| --- | --- | --- |\r\n| 5.0 |  | 仕様面の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nデザインを変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE032\\_ Manual\\_5.0.pdf](https://docbase.io/file_attachments/48601640-9e03-4dc8-9140-da9092237a64.pdf)\r\n\r\n\r\n## 5.2ver（2023/10/13現在最新）\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　仕様 |\r\n| --- | --- | --- |\r\n| 5.2 |  | 仕様面の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE032\\_manual\\_ol.pdf](https://docbase.io/file_attachments/fb05514f-19f9-4b86-9e18-1ce414f8834a.pdf)\r\n\r\n\r\n# PowerArQ 2<a id=\"ac50\"></a>\r\n\r\n\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 1.2(〜2019年12月) | 初期ロット〜POST002 | INPUT入力が14-40V。 |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nSTSL300が必要なためQRコードが紹介（現在のロットではSTSL300は不要）\r\n初めてお使いいただく際の動作確認項目に、\r\n[b.・AC出力時には内蔵ファンが回転する事]と誤表記有。\r\nエラー内容のプラスマイナス記号に誤表記有。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.2.pdf](https://docbase.io/file_attachments/a0c3af26-7dc7-40f8-97a2-7607f1927ff7.pdf)\r\n\r\n## 1.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  | 仕様 |\r\n| --- | --- | --- |\r\n| 1.3 | POST003 | INPUT入力が12-40Vに変更 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nINPUT入力が12-40Vに変更されたので、それに伴いSTSL300紹介のQRコード削除。50/60Hz変更方法の動画をQRコードで紹介。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.3\\_ol.pdf](https://docbase.io/file_attachments/9c56f27d-3d46-48a4-b599-fb5cb1a42f48.pdf)\r\n\r\n## 1.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 1.4| POST004 | 仕様面の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n非正規購入者には保証が適用されない、という案内文や注意書きを追加。12p[5.1.家庭内コンセントによる充電]項目の、充電時の赤点灯について、より分かりやすい説明文に変更。\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.4\\_ol.pdf](https://docbase.io/file_attachments/f2fb595f-7417-45ef-9f4f-e9a57b7c7a98.pdf)\r\n\r\n## 1.5ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |　 仕様 |\r\n| --- | --- | --- |\r\n| 1.5 | POST005 | ファンの回転条件が変更 |\r\n\r\n> **●ファンの回転条件●**\r\n> ・INPUTが60Wを超える\r\n> ・AC出力時、OUTPUTが80Wを超える\r\n> ・内部温度が50度を超える\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n14pの[充電中と表示されます]の表記を削除・修正。\r\nファンの回転条件が変更されたため、案内追加。\r\n\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.5.pdf](https://docbase.io/file_attachments/a540b4e4-d791-4426-9e0e-683a5b8ab072.pdf)\r\n\r\n\r\n## 1.6ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | POST008 |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.5verからの変更点を確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.6.pdf](https://docbase.io/file_attachments/bc9965d6-101d-4887-8338-4650f9ed9748.pdf)\r\n\r\n## 1.7ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.7 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.6verからの変更点を確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_1.7.pdf](https://docbase.io/file_attachments/e100ccd7-923e-4d0d-85e8-58f4c94ae0c8.pdf)\r\n\r\n\r\n\r\n## 1.8ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.8 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.7verからの変更点を確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_0331.pdf](https://docbase.io/file_attachments/d4d4c9b2-4738-445a-84d0-c96976f6ac8f.pdf)\r\n\r\n\r\n## 2.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.0 |  | 特になし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nデザイン面を大幅変更\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) 取扱説明書\\_入稿.pdf](https://docbase.io/file_attachments/4e0da625-1843-4c6a-9495-4830c08b5631.pdf)\r\n\r\n\r\n## 2.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n2.0verからの変更点を確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_2.1\\_210623\\_ol.pdf](https://docbase.io/file_attachments/d6b06f47-71e9-4caa-aed8-b6884052ea65.pdf)\r\n\r\n\r\n## 2.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.4 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n\r\n#### 変更点\r\n![スクリーンショット 2022-07-12 13.32.58.png](https://image.docbase.io/uploads/8dd06896-4ab5-4417-9b4a-6fcd586657ce.png =WxH)\r\n\r\n上記を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_2.5\\_220712\\_ol.pdf](https://docbase.io/file_attachments/25e3766a-e8c3-4feb-a82c-870199612586.pdf)\r\n\r\n\r\n\r\n## 2.6ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.6 | データ上での修正 |前回から特に変更し |\r\n\r\n### 説明書内の注意事項・変更点\r\n最新説明書を誘導するためのQRコードを追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_Manual\\_2.6\\_220909\\_ol.pdf](https://docbase.io/file_attachments/b889ed99-641f-421b-9096-641846be3e09.pdf)\r\n\r\n\r\n## 2.7ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.7 | データ上での修正 | P8のシガーソケットの個数を5から1に修正する |\r\n\r\n### 説明書内の注意事項・変更点\r\nP8のシガーソケットの個数を5から1に修正する\r\n\r\n該当タスク）https://app.asana.com/0/1118786847524999/1203444771461878/f\r\n\r\n\r\n## 2.9ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.9 | データ上での修正 | 変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/1ttbg0MGNRkLodDr8E6Pd-t7iX1qDzfsu\r\n\r\n\r\n\r\n## 3.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 3.0 | データ上での修正 | 変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC50\\_manual\\_ol.pdf](https://docbase.io/file_attachments/5bf197aa-e525-4be7-a1bd-efa70c161227.pdf)\r\n\r\n# PowerArQ Pro<a id=\"hte060\"></a>\r\n\r\n## 2.0以前\r\nhttps://drive.google.com/drive/u/0/folders/127OK-pfgCoyC1OgHb3o6M1MIabsLhe3P\r\n※上記から内容を確認ください。\r\n\r\n## 2.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.0  |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE060\\_Manual\\_2.1.pdf](https://docbase.io/file_attachments/ae29da14-610e-4304-a251-c4da299356c2.pdf)\r\n\r\n## 2.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.1  | データ上のみの修正 | 前回分から変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n最新の説明書に誘導するためのQRコードを挿入\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE060\\_Manual\\_2.1\\_ol.pdf](https://docbase.io/file_attachments/59512446-3d8f-424b-ad67-2abe8d9b2ea0.pdf)\r\n\r\n## 2.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.3  | データ上のみの修正 | 前回分から変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1uZnA300Z92evXto74EJzcTBvD-1Ks0UJ\r\n\r\n\r\n## 2.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.4  | データ上のみの修正 | 前回分から変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) HTE060\\_manual\\_ol.pdf](https://docbase.io/file_attachments/14e5bd8b-a1a9-478b-939c-4be93e757c1c.pdf)\r\n\r\n\r\n\r\n# PowerArQ mini 2<a id=\"ac30\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC30\\_Manual\\_1.0\\_ol.pdf](https://docbase.io/file_attachments/818917be-cd07-4889-9439-473dc058608b.pdf)\r\n\r\n\r\n### 1.1ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AC30\\_Manual\\_1.1.pdf](https://docbase.io/file_attachments/d5330d11-6f4e-4491-8810-07b05ce74038.pdf)\r\n\r\n\r\n## 1.2ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_210726\\_ol.pdf](https://docbase.io/file_attachments/f789702c-6862-4050-9083-0d03986eab2c.pdf)\r\n\r\n\r\n## 1.3ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.3 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_211029\\_ol.pdf](https://docbase.io/file_attachments/a8eba7fc-b026-47e1-9921-02aba746c32d.pdf)\r\n\r\n\r\n## 1.4ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 |  |  |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_220618\\_ol.pdf](https://docbase.io/file_attachments/9c1b4012-630e-4e72-bb30-d96e24ed3d82.pdf)\r\n\r\n## 1.5ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 | データ上の修正 | 前回分から変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n最新の説明書に誘導するためのQRコードを挿入\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_ol.pdf](https://docbase.io/file_attachments/0b342200-4674-4267-bf1f-93cf0f2bb120.pdf)\r\n\r\n\r\n## 1.6ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | データ上の修正 | 変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\nP8のライトの記述があやまっていたので変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_ol.pdf](https://docbase.io/file_attachments/eda609e7-3a3e-4ea1-b6ce-5f0a35b6a8f0.pdf)\r\n\r\n## 1.7ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.7 | POST023 | 変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\nLINEのQRコードの変更、100%の満充電をOKにする記載を入れる\r\n\r\nhttps://drive.google.com/drive/folders/1-32dxin9yJJ_GcbilqtTZT-502ELPlRk\r\n\r\n## 1.8ver\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.8 | データ上の修正 | 変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/1t6zxhvqEnTkwCLEbkKzzbtzhEkSpW3NW\r\n\r\n\r\n## 1.9ver\r\n\r\n　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.9 | データ上の修正 | 変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) ac30\\_manual\\_ol.pdf](https://docbase.io/file_attachments/a437f507-eb54-4de4-817e-fb35c9d8d78b.pdf)\r\n\r\n# PowerArQ 3<a id=\"pa50\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_Manual\\_1\\_ol.pdf](https://docbase.io/file_attachments/79dcad22-f38e-42ef-8846-ac2784a3d541.pdf)\r\n\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_Manual\\_1.1.pdf](https://docbase.io/file_attachments/0d95ef7c-fda5-45c5-bbb4-4d0983f4a6cb.pdf)\r\n\r\n\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_210803\\_ol.pdf](https://docbase.io/file_attachments/8604089d-d0a7-4ab7-b9ae-f20b91da89ea.pdf)\r\n\r\n\r\n## 2.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.0 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_211014\\_ol.pdf](https://docbase.io/file_attachments/6c8bb76f-3412-46b2-a842-46ba6c7f3c99.pdf)\r\n\r\n\r\n## 2.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.1 |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n#### 変更点\r\n\r\n![スクリーンショット 2022-01-27 14.39.46.png](https://image.docbase.io/uploads/9307a85f-4f47-4ba4-b6e4-15dfe29aa7a8.png =WxH)\r\n![スクリーンショット 2022-01-27 14.37.30.png](https://image.docbase.io/uploads/4c5a1b45-eb15-47a0-a5c6-161058ab8849.png =WxH)\r\n![スクリーンショット 2022-01-27 14.38.59.png](https://image.docbase.io/uploads/4c082cd3-9c96-451a-a0c6-608304513bcd.png =WxH)\r\n![スクリーンショット 2022-01-27 14.38.47.png](https://image.docbase.io/uploads/69fcd8e9-84ec-4bf0-9782-8105fcbd3b4b.png =WxH)\r\n\r\n上記の通り、変更。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_220128\\_ol.pdf](https://docbase.io/file_attachments/c76a8028-2eca-4f8b-a557-fe9d5fa77f22.pdf)\r\n\r\n\r\n\r\n## 2.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.2 |  |  |\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_220404\\_ol.pdf](https://docbase.io/file_attachments/5decbd4c-01a1-4fb3-a567-b25b526fbf88.pdf)\r\n\r\n\r\n## 2.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.3 |  |  |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_ol.pdf](https://docbase.io/file_attachments/33fb6c69-0d73-446a-8afd-a94035ecd722.pdf)\r\n\r\n\r\n## 2.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.4 | データ上の修正 | 前回分から変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n最新の説明書に誘導するためのQRコードを挿入\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_ol.pdf](https://docbase.io/file_attachments/fafc07de-089f-44a3-bcca-d4ad4d206148.pdf)\r\n\r\n## 2.6ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.6 | データ上の修正 | 前回分から変更なし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/1sgFiRdLXwXaBqPwSc9cXoixds97M9n0W\r\n\r\n## 2.7ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 2.7 | データ上の修正 | 前回分から変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_manual\\_ol.pdf](https://docbase.io/file_attachments/ae97fd92-8cc3-40e1-8fff-bc3d8c20a596.pdf)\r\n\r\n\r\n# PowerArQ Max<a id=\"pa200\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | 初回ロット納品分 |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n## 1.1/1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 | データのみの修正 | 製品側の変更はなし |\r\n### 説明書内の注意事項・変更点\r\n#### 1.1\r\nhttps://drive.google.com/drive/folders/1UznhYIzD3eDYvkLEOFamN6PHT4q9dtc1\r\n\r\n※1.3までは販売前の修正だったので、詳細は割愛しています。\r\n\r\n## 1.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.3 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/file/d/1_CKldvcC9IlhgF3hPaFq01wZrOsBppC2/view?usp=share_link\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1ZUSWwupofyBR4AMK-HBNxwyYfRYep2aK\r\n\r\n## 1.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1KAxidzjHXirrxax1meaCAutbaSD5V57o\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/15oiCH5bQsNl5eqFHzTy648Y5Mv2qFGgj\r\n\r\n## 1.6ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/file/d/1trsNRxsiCAEVHftaAHee3mtAzcA4vkpr/view?usp=share_link\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/1rhV9VkqDU4DNKk0O9WSe9RO3HKQPJqiX\r\n\r\n## 1.7ver\r\n　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.7 | データのみの修正 | 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA200\\_manual\\_ol.pdf](https://docbase.io/file_attachments/00d0aae1-f916-4df1-a940-8e3ec1081534.pdf)\r\n\r\n# PowerArQ S7<a id=\"pa70\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | 初回ロット納品分 |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/file/d/1CwaWNlfRPdrhWlW5DgDwFbuJTWt0-qCa/view?usp=share_link\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n![スクリーンショット 2022-12-01 14.43.51.png](https://image.docbase.io/uploads/3fc335f7-d5c5-4eb5-af5f-2916682722a0.png =WxH)\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1J28HODMD733pwEZL6VD_C50wPU6iZYoa\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1KcTlX3kqGw3wlv8p_EOCdHZilrcRrufZ\r\n\r\n## 1.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.3 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1JGRLpmEBAnyUedMeze5wXviDn3oY5F84\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1JbTkz2IYKTOYuBYlKAeCWBTeCXK9ygeQ\r\n\r\n## 1.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 | データのみの修正 | 製品側の変更はなし |\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1p23ik5VEqvXzjAPvFAh_nM-RDEs9NyNA\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://app.asana.com/0/1118786847524999/1204073935397072/f\r\n\r\n\r\n## 1.5ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.5 | POST023 | 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nLINEのQRコードの変更、100%の満充電をOKにする記載を入れる\r\n\r\nhttps://drive.google.com/drive/folders/1Remc0egBsBIPwl-eDVQX2nloYHuyCKi6\r\n\r\n### 正式なデータ\r\n\r\nhttps://drive.google.com/drive/folders/19JeCuDUosIVLTb56_Z01lQm-Cp-Hgcf9\r\n\r\n## 1.6ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | データ上の修正| 製品側の変更はなし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1pHt0p8B7w0d_r1bdt7vBUyMvnQkIwkeS\r\n\r\n\r\n\r\n## 1.7ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.7 | データ上の修正| 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA70\\_manual\\_ol.pdf](https://docbase.io/file_attachments/525b1d46-9cea-4e75-9337-1cc6a8e5a976.pdf)\r\n\r\n\r\n# PowerArQ S10 Pro\r\n\r\n## 1.1ver\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | データ上の修正| 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法についての案内を追記\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA100\\_manual\\_ol.pdf](https://docbase.io/file_attachments/446b3b54-02d8-494f-ac79-db9c3cf59952.pdf)\r\n\r\n## 1.2ver\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 | データ上の修正| 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n放電するので、電源落とした方がいい記載と、電源を落とすには電源ボタンの長押しが必要な記載\r\n\r\n![スクリーンショット 2023-10-26 14.29.19.png](https://image.docbase.io/uploads/592b0bb0-237b-46ad-9b63-bf56cc430af4.png =WxH)\r\n\r\n## 1.3ver\r\n\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.3 | データ上の修正| 製品側の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n下記タスクの指摘箇所の修正\r\nhttps://app.asana.com/0/1204173990739087/1206355216442019/f\r\n\r\n大まかには、\r\n電源OFFをするのは長押しが必要の記述の追加\r\nエラー：W605の解消方法が「下がるまで」と記載を「上がる」に変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA100\\_manual\\_ol.pdf](https://docbase.io/file_attachments/d69d98e2-fd10-4849-808f-1ff6f9758b9b.pdf)\r\n\r\n## 1.4ver\r\n\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 | TBST002 | ディスプレイの表示のバグを修正。ただし、説明書に関係する仕様の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nvol1.1~1.3にかけてデータ上で修正していたが、今回発注に伴い、\r\n説明書を新たに印字することになったため、行間や文字フォントなどの修正を行なった。\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA100\\_manual\\_OL.pdf](https://docbase.io/file_attachments/306f640d-cff1-40c0-b086-c9b84130ac83.pdf)\r\n\r\n## 1.5ver\r\n\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.5 | TBST002 | ブラックのロットのみ、ボタンのランプが点灯しないため、一部説明を変更 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nボタンのランプが点灯しないため、一部説明を変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA100\\_manual\\_ol.pdf](https://docbase.io/file_attachments/a3d0e0bb-378c-4376-bed7-b853d07d307c.pdf)\r\n\r\n\r\n\r\nなお、TBST002については、コヨーテタンは1.4verを、ブラックを1.5verを同梱しています。\r\n\r\n\r\n## 1.6ver\r\n\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | データ上の修正 | ブラックのロットのみボタンのランプが点灯しないため、一部説明を変更 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.5verで反映できていなかった部分を反映しています。\r\n\r\n![スクリーンショット 2024-08-21 17.47.11（2）.png](https://image.docbase.io/uploads/3554f658-fd97-4070-8c31-8c43f446fb60.png =WxH)\r\n\r\n\r\n## 1.7ver\r\n\r\nバージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.6 | TBST003 | 製品としての変更点はなし。付属品のステッカーの同梱がなくなった |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nPBRAのリンクの追加、チャットbotの誘導、付属品からステッカーの記載を削除\r\n\r\n\r\n\r\n# PowerArQ Solar 120W 3枚折り<a id=\"l0829\"></a>\r\n\r\n## STSL120D時代\r\n\r\n| 　　バージョン　　　 | 　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- | --- |\r\n| 3.0以前 | STSL120D | --- | MC4ではなく、DC8mmの仕様 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nSTSL120D（DC8mmの仕様のパネル）のお客様の場合は、\r\n基本こちらの説明書ベースでのご案内\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0822\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/c3b799ab-218b-423b-9df8-416e5a0effb5.pdf)\r\n\r\n\r\n## Ver3.0（STSL120FD-MC4  /  l0827）\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n | STSL120FD-MC4 |LTST001 | MC4-MC4ケーブル同梱 |\r\n\r\n### 説明書内の注意事項・変更点\r\nl0827の初期ロット購入の方はこちら。\r\n※初期ロットはMC4ケーブルをパネル側に同梱していましたので、その記載あり\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0827\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/3e78f1fb-1246-4b2a-84e1-38716a897efd.pdf)\r\n\r\n## Ver4.0（STSL120FD-MC4  /  l0827）\r\n\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| STSL120FD-MC4 | LTST003 | ケーブル同梱無し |\r\n\r\n### 説明書内の注意事項・変更点\r\nl0827の初期ロット以降は、パネル側にMC4ケーブルを同梱してしなくなりましたのでその部分が変更されています。初期ロット以外のl0827はこちらの説明書を参照\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0827\\_Manual\\_ol (1).pdf](https://docbase.io/file_attachments/69259ee3-6d51-4d3a-a1ad-71534c9bceb2.pdf)\r\n\r\n\r\n## Ver5.0（STSL120FD-MC4DC  /  l0829）\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- |--- |\r\n| STSL120FD-MC4DC |LTST005 | 素材をPET→ETFEに変更。チャージコントローラー搭載。 |\r\n\r\n### 説明書内の注意事項・変更点\r\nl0827→l0829の変更時の説明書。仕様変更の内容は上記の通り。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0829\\_Manual\\_5.0\\_ol.pdf](https://docbase.io/file_attachments/8afcbbcd-971b-4b47-beb9-02a1a5808c3e.pdf)\r\n\r\n## Ver5.1（STSL120FD-MC4DC  /  l0829）\r\n\r\n| 　　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| STSL120FD-MC4DC |LTST008 | DC5521（6.5A）→DC5525（6.67A）に変更。 |\r\n\r\n### 説明書内の注意事項・変更点\r\n上記使用の該当箇所が変更\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0829\\_Manual\\_5.1\\_ol.pdf](https://docbase.io/file_attachments/0a12180a-bfac-4cd0-bb5c-695176202e7f.pdf)\r\n\r\n## Ver5.2（STSL120FD-MC4DC  /  l0829）\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|   |  |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n仕様の変更はなく、デザインが大幅に変更\r\n※デザインが変更する過程で、不要な文言はトリになっています。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0829\\_Manual\\_5.2\\_ol.pdf](https://docbase.io/file_attachments/2d3ce2bf-9a34-47e3-b96a-9cfcc2d21bbd.pdf)\r\n\r\n\r\n## Ver5.3（STSL120FD-MC4DC  /  l0829）\r\n\r\n| 　　型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |  \r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0829\\_Manual\\_5.3\\_ol.pdf](https://docbase.io/file_attachments/31763f0e-caa8-4373-8833-5797efd67485.pdf)\r\n\r\n\r\n## Ver5.4（STSL120FD-MC4DC  /  l0829）\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| l0829 |  |  | データでの修正 |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n![スクリーンショット 2022-07-27 22.22.49.png](https://image.docbase.io/uploads/d2326a18-a612-4e12-b784-06fe1f8d51ff.png =WxH)\r\n\r\n上記の記載のとおり。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0829\\_Manual\\_5.4\\_ol.pdf](https://docbase.io/file_attachments/2b03746f-f22c-49b3-b93d-790d11c7da07.pdf)\r\n\r\n\r\n## Ver5.5（STSL120FD-MC4DC  /  l0829）\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| STSL120FD-MC4DC | 製品への同梱はなし | 前回から変更なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/folders/1rU3ftrHWl0Kw6oX8vsjJmKHxj8LKiVYc\r\n\r\n※USBポートのランプの説明を追記\r\n※最新説明書を読み込む用のQRコードを記載\r\n※MC4ケーブルは差し込み方の文言修正\r\n\r\nhttps://drive.google.com/drive/folders/1rU3ftrHWl0Kw6oX8vsjJmKHxj8LKiVYc\r\n\r\n# PowerArQ Solar 120W 2枚折り<a id=\"l0977\"></a>\r\n\r\n## Ver1.0\r\n\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| PASL120FD-MC4DC | MGST001| 初回ロット |  |\r\n\r\n## Ver1.1\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| PASL120FD-MC4DC | 製品への同梱はなし・データ上の修正 | 前回から変更なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/16iQ6kLJlZyhQI8W_tMYOvql2fRhZnd-p\r\n\r\n## Ver1.2\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| PASL120FD-MC4DC | 製品への同梱はなし・データ上の修正 | 前回から変更なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1ALFvJSIFldNQxWOLHmZaLkbRLsu4z2o_\r\n\r\n\r\n## Ver1.3\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| PASL120FD-MC4DC | 製品への同梱はなし・データ上の修正 | 前回から変更なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/19BjDOkaL3c2bc_TPXZOzY_gFF8HvuKCL\r\n\r\n## Ver1.5\r\n\r\n| 　型番　 |　生産ロット　　　  |仕様 |\r\n|  --- | --- |--- |\r\n| PASL120FD-MC4DC | MGST003 | 前回から変更なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nhttps://drive.google.com/drive/u/0/folders/1IyJEsJq-p4Q7vWaT3A1S6xD5gSVA1MY7\r\n\r\n# PowerArQ Solar 210W  3枚折り<a id=\"l0838\"></a>\r\n\r\n## Ver1.0\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| STSL210FD-MC4DC |  | 初回ロット |  \r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0838\\_Manual\\_1.0\\_ol.pdf](https://docbase.io/file_attachments/918330cf-cf74-4928-88d2-5808e085fcea.pdf)\r\n\r\n\r\n## Ver2.0\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |  \r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0838\\_Manual\\_2.0\\_ol.pdf](https://docbase.io/file_attachments/71612d43-d0ae-49fe-a12b-6f59fd8be242.pdf)\r\n\r\n\r\n## Ver2.1\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |  \r\n\r\n### 説明書内の注意事項・変更点\r\n確認中\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0838\\_Manual\\_2.1\\_ol.pdf](https://docbase.io/file_attachments/050798b9-5bdf-4eff-83ac-d9af70fa7848.pdf)\r\n\r\n\r\n## Ver2.2\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |  \r\n\r\n### 説明書内の注意事項・変更点\r\n![スクリーンショット 2022-07-27 22.22.49.png](https://image.docbase.io/uploads/9e8d564d-8f8b-447d-8814-ba1953a3f76e.png =WxH)\r\n\r\n上記に記載のとおり。\r\n\r\n[![pdf](/images/file_icons/pdf.svg) l0838\\_Manual\\_2.2\\_ol.pdf](https://docbase.io/file_attachments/3aef4441-4594-43c6-aadb-79fcf4bc7229.pdf)\r\n\r\n\r\n## Ver2.3\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|  |  |  |  \r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/folders/18_cqyNciglaC1q9XKgyNVw6Z3WuOoIWN\r\n\r\n※USBポートのランプの説明を追記\r\n※最新説明書を読み込む用のQRコードを記載\r\n※MC4ケーブルは差し込み方の文言修正\r\n\r\nhttps://drive.google.com/drive/folders/18MOP66_anQLxhWx7FKOonH7mE3ZYC-sZ\r\n\r\n\r\n# PowerArQ Solar 210W  4枚折り\r\n\r\n## Ver1.0\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| PASL210FD-MC4DC | LTST014 |  |  \r\n\r\n## Ver1.1\r\n| 型番　 |　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| PASL210FD-MC4DC |  | データ上の修正 |  \r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nテキストや文言を修正。仕様の変更や大きな内容の変更はなし\r\n\r\n\r\n# ICEBERG2<a id=\"aq25l\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | \tTFST001 |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) PA50\\_Manual\\_1\\_ol.pdf](https://docbase.io/file_attachments/79dcad22-f38e-42ef-8846-ac2784a3d541.pdf)\r\n\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | \tTFST002 | （説明書Ver1.1）冷蔵庫の蓋の内側の温度設定の目安シールを無しに※1参考。内部設定でタッチ音をオンオフできるように。素材がマットコーティングに（l0923(レッド)は新素材の入荷なし） |\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/1TzeXtFLrwpYEBkjAiCFaVO-p9fHy84X2\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ25L\\_manual\\_ol.pdf](https://docbase.io/file_attachments/3927c708-4773-49ba-99c6-2e81404d22e1.pdf)\r\n\r\n\r\n\r\n## 2.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.1 | ロットへの同梱はまだなし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n※タッチ音を変更するための記載\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ25L\\_manual\\_2.1.pdf](https://docbase.io/file_attachments/f05ec57c-2157-4418-9c28-0bc89c54038b.pdf)\r\n\r\n## 2.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.2 | データ上の修正 | 前回分から仕様の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\nhttps://drive.google.com/drive/u/0/folders/13spELV7jCBan9_R3m-8fMiZE8LI_oTnE\r\n※結露に関する注意事項、ステッカーを剥がさないようにする注意事項を記載\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ25L\\_manual\\_2.2\\_ol.pdf](https://docbase.io/file_attachments/70cea4f0-3499-4700-b88b-b05f983d7d62.pdf)\r\n\r\n## 2.3ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.3 | データ上の修正 | 前回分から仕様の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n廃棄方法として、有料でリサイクルを承っていること、お客様で捨てる場合はリサイクル券の購入が必要なことを明示\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ25L\\_manual\\_ol.pdf](https://docbase.io/file_attachments/61130fa5-d620-485c-8a02-1bc4ba23c0a9.pdf)\r\n\r\n## 2.4ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.4 | データ上の修正 | 前回分から仕様の変更はなし |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n![マイタスク ICEBERG2修正 Apr 26 Screenshot.jpg](https://image.docbase.io/uploads/cff008b0-da8e-48d7-bbff-1990c9817d3a.jpg =WxH)\r\n\r\n\r\n## 2.5ver\r\n\r\n　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n|2.5 | データ上の修正 | 前回分から仕様の変更はなし |\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nサブ冷蔵庫の内容をFAQに追記\r\n![変更点.jpg](https://image.docbase.io/uploads/e3c9c2b2-741c-42c0-a822-b1611c3deb12.jpg =WxH)\r\n[![pdf](/images/file_icons/pdf.svg) AQ25L\\_manual\\_2.5\\_ol.pdf](https://docbase.io/file_attachments/77bf9857-c683-4b19-8379-96e4d08bc512.pdf)\r\n\r\n\r\n# ICEBERG 45L<a id=\"aq25l\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | APST001|  |\r\n\r\nhttps://drive.google.com/file/d/1bJi4-vgMorGHvwDqZ9DiyyKZAEpNecnj/view?usp=drive_link\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | データ上で修正| 仕様面の変更なし |\r\n\r\n### 説明書内の注意事項・変更点\r\nメモリ機能の書き方を変更\r\nhttps://drive.google.com/drive/u/0/folders/1ywQg56GRV-lRw7B4lTYhU4Nkx372lIgN\r\n\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 | データ上で修正| 仕様面の変更なし |\r\n​\r\n### 説明書内の注意事項・変更点\r\n廃棄方法として、有料でリサイクルを承っていること、お客様で捨てる場合はリサイクル券の購入が必要なことを明示\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ45L\\_manual\\_ol.pdf](https://docbase.io/file_attachments/43b168a2-706b-4e69-afbb-6f83bd89aa9c.pdf)\r\n\r\n\r\n## 1.4ver\r\n\r\n　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.4 | データ上で修正| 仕様面の変更なし |\r\n​\r\n### 説明書内の注意事項・変更点\r\nサブ冷蔵庫の内容をFAQに追記\r\n\r\n\r\n![変更点.jpg](https://image.docbase.io/uploads/46b42e9f-673c-4cbf-8f85-fd80140faee7.jpg =WxH)\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) AQ45L\\_manual\\_ol.pdf](https://docbase.io/file_attachments/2ac85847-f713-401d-9616-63f6af815215.pdf)\r\n\r\n\r\n## ICEBERG 29L\r\n### 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | TFST007|  |\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n\r\n### 1.1ver\r\n\r\n| 　　バージョン　　　 | 生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.1 |データ上で修正 |仕様面の変更なし  |\r\n\r\n\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\nサブ冷蔵庫の内容をFAQに追記\r\n\r\n![変更点.jpg](https://image.docbase.io/uploads/fc054328-ded7-483d-90d4-a0599081ec94.jpg =WxH)\r\n\r\n\r\n\r\n\r\n[![pdf](/images/file_icons/pdf.svg) F29L\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/b04679cc-c827-4cf0-bc2a-d339fac40d91.pdf)\r\n\r\n# PowerArQ Fan Light<a id=\"hp-1061\"></a>\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | YLST001 |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n特になし\r\n\r\n[![pdf](/images/file_icons/pdf.svg) FahLight\\_Manual\\_ol.pdf](https://docbase.io/file_attachments/fd2ec9f9-486c-41b6-8da9-e7d8d5971454.pdf)\r\n\r\n\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |仕様 |\r\n| --- | --- | --- |\r\n| 1.2 | ロット納品なし |  |\r\n\r\n### 説明書内の注意事項・変更点\r\n付属品の記載、はねの外し方の記載\r\n\r\n[![pdf](/images/file_icons/pdf.svg) FanLight\\_Manual\\_1.2\\_ol.pdf](https://docbase.io/file_attachments/c7b1f2d6-6fb0-4c74-9cd1-7c1d1d22971c.pdf)\r\n\r\n\r\n\r\n# PowerArQ Point Cooler ポイントクーラーt<a id=\"powerarq-point-cooler-ポイントクーラー\"></a>\r\n\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.0 | ZYST001 | https://drive.google.com/open?id=1-jJiFEyXxYNWZOB-NkJuphovd0A3Xsn0&usp=drive_fs |\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.1 | ZYST001 | https://drive.google.com/open?id=1Qax-KqXdaN3ZM1gpVrENWFr3D6DpYQ4k&usp=drive_fs |\r\n\r\n仕様の変化はなし\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.2 | ZYST001 |  |\r\n\r\n仕様の変化はなし\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n\r\n![スクリーンショット 2025-06-23 13.44.22.png](https://image.docbase.io/uploads/27004580-5a47-4430-8613-2e39244dfbac.png =WxH)\r\n\r\n\r\n\r\n\r\n# PowerArQ Cooling Vest 冷却ベスト<a id=\"powerarq-cooling-vest-冷却ベスト\"></a>\r\n\r\n\r\n# PowerArQ PowerBank3 A10000 モバイルバッテリーt<a id=\"powerarq-powerbank3-a10000-モバイルバッテリー\"></a>\r\n\r\n\r\n\r\n## PowerArQ Electric Blanket - 電気毛布\r\n\r\n## 1.0ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.0 | SOST001 | https://drive.google.com/drive/u/0/folders/1UyEpBNlugag-ZuduypoAFJW6yqc7dKkS |\r\n\r\n## 1.1ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.1 | SOST002 | https://drive.google.com/drive/u/0/folders/1V-0fyDEyVfljq-SYIBAGPX7dezSqiOis |\r\n\r\n仕様の変化はなし\r\n\r\n## 1.2ver\r\n\r\n| 　　バージョン　　　 | 　　　生産ロット　　　  |データ |\r\n| --- | --- | --- |\r\n| 1.2 | SOST003 | https://drive.google.com/drive/u/0/folders/1c9vXr2zYMIYuFHAx3e4D9CnUAO72mBBG |\r\n\r\n仕様の変化はなし\r\n\r\n# ICEBERG 12L<a id=\"iceberg-12l\"></a>\r\n\r\n## 1.0ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | TFST009 | ICEBERG 12L初回ロット版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n初回リリース版。\r\n\r\n**関連リンク:**\r\n- [Asanaタスク](https://app.asana.com/1/789671625688551/project/1200997923629944/task/1210634609163708?focus=true)\r\n\r\n# PowerArQ Inverter Generator<a id=\"powerarq-inverter-generator\"></a>\r\n\r\n## 1.0ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.0 | SCST001 | PowerArQ Inverter Generator初回ロット版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n初回リリース版。\r\n\r\n**関連リンク:**\r\n- [Asanaタスク](https://app.asana.com/1/789671625688551/project/1200997923629944/task/1210768995689483?focus=true)\r\n- [取扱説明書データ](https://drive.google.com/file/d/1R4LGtM_v7_w_0wuV4QvtlDQ17CA-Y2fM/view?usp=drive_link)\r\n\r\n## 1.1ver\r\n\r\n| バージョン | 生産ロット | 仕様 |\r\n| --- | --- | --- |\r\n| 1.1 | 第2ロット以降 | PowerArQ Inverter Generator改良版 |\r\n\r\n### 説明書内の注意事項・変更点\r\n\r\n1.0verからの主な変更点：\r\n- コントローラーパネルの追記\r\n- プロテクターの説明の追記\r\n\r\n**関連リンク:**\r\n- [取扱説明書データ](https://drive.google.com/file/d/1er3jUKYZAQCJPVQv_bJEIBRchmYcJp1G/view?usp=drive_link)\r\n- [詳細変更点](https://go.docbase.io/posts/3841135)\r\n\r\n- - -\r\n\r\n## 参考文献\r\n\r\n#{664151}",
+  "draft": false,
+  "archived": false,
+  "url": "https://go.docbase.io/posts/1356395",
+  "created_at": "2020-05-14T17:18:08+09:00",
+  "published_at": "2020-05-22T16:36:44+09:00",
+  "updated_at": "2025-08-20T13:54:13+09:00",
+  "scope": "group",
+  "tags": [
+    {
+      "name": "{\"name\"=>\"{\\\"name\\\"=>\\\"マニュアル\\\"}\"}"
+    },
+    {
+      "name": "{\"name\"=>\"{\\\"name\\\"=>\\\"cs\\\"}\"}"
+    },
+    {
+      "name": "{\"name\"=>\"{\\\"name\\\"=>\\\"SmartTap\\\"}\"}"
+    }
+  ],
+  "user": {
+    "id": 33561,
+    "name": "前園 拓真",
+    "profile_image_url": "https://image.docbase.io/uploads/6a7aed2f-593e-40e3-b18e-7a9d8b3b8df5-128x128c.jpg"
+  },
+  "stars_count": 5,
+  "good_jobs_count": 0,
+  "sharing_url": null,
+  "representative_image_url": "https://image.docbase.io/uploads/8dd06896-4ab5-4417-9b4a-6fcd586657ce.png",
+  "comments_count": 0,
+  "groups": [
+    {
+      "id": 10481,
+      "name": "CS（加島商事）"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "a0c3af26-7dc7-40f8-97a2-7607f1927ff7.pdf",
+      "name": "AC50_Manual_1.2.pdf",
+      "size": 19259459,
+      "url": "https://docbase.io/file_attachments/a0c3af26-7dc7-40f8-97a2-7607f1927ff7.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.2.pdf](https://docbase.io/file_attachments/a0c3af26-7dc7-40f8-97a2-7607f1927ff7.pdf)",
+      "created_at": "2020-05-14T16:49:14+09:00"
+    },
+    {
+      "id": "9c56f27d-3d46-48a4-b599-fb5cb1a42f48.pdf",
+      "name": "AC50_Manual_1.3_ol.pdf",
+      "size": 33604899,
+      "url": "https://docbase.io/file_attachments/9c56f27d-3d46-48a4-b599-fb5cb1a42f48.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.3_ol.pdf](https://docbase.io/file_attachments/9c56f27d-3d46-48a4-b599-fb5cb1a42f48.pdf)",
+      "created_at": "2020-05-14T16:50:04+09:00"
+    },
+    {
+      "id": "a540b4e4-d791-4426-9e0e-683a5b8ab072.pdf",
+      "name": "AC50_Manual_1.5.pdf",
+      "size": 19271064,
+      "url": "https://docbase.io/file_attachments/a540b4e4-d791-4426-9e0e-683a5b8ab072.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.5.pdf](https://docbase.io/file_attachments/a540b4e4-d791-4426-9e0e-683a5b8ab072.pdf)",
+      "created_at": "2020-05-22T16:36:13+09:00"
+    },
+    {
+      "id": "f2fb595f-7417-45ef-9f4f-e9a57b7c7a98.pdf",
+      "name": "AC50_Manual_1.4_ol.pdf",
+      "size": 34032746,
+      "url": "https://docbase.io/file_attachments/f2fb595f-7417-45ef-9f4f-e9a57b7c7a98.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.4_ol.pdf](https://docbase.io/file_attachments/f2fb595f-7417-45ef-9f4f-e9a57b7c7a98.pdf)",
+      "created_at": "2020-05-22T16:36:28+09:00"
+    },
+    {
+      "id": "5f1ed782-9485-49c8-8342-67173bbfaaa6.pdf",
+      "name": "619Wh_l0810manual.pdf",
+      "size": 2244879,
+      "url": "https://docbase.io/file_attachments/5f1ed782-9485-49c8-8342-67173bbfaaa6.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) 619Wh_l0810manual.pdf](https://docbase.io/file_attachments/5f1ed782-9485-49c8-8342-67173bbfaaa6.pdf)",
+      "created_at": "2020-05-27T15:53:29+09:00"
+    },
+    {
+      "id": "f2e0f2bd-a5cc-41a1-9a9d-05a144949fe9.pdf",
+      "name": "20190411ver_l0810_manual_ol.pdf",
+      "size": 4964046,
+      "url": "https://docbase.io/file_attachments/f2e0f2bd-a5cc-41a1-9a9d-05a144949fe9.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) 20190411ver_l0810_manual_ol.pdf](https://docbase.io/file_attachments/f2e0f2bd-a5cc-41a1-9a9d-05a144949fe9.pdf)",
+      "created_at": "2020-05-27T15:58:04+09:00"
+    },
+    {
+      "id": "7fa34216-379a-4b48-a7b4-5ac3cb00b237.pdf",
+      "name": "201903ver_HTE032_Manual_ol.pdf",
+      "size": 10719275,
+      "url": "https://docbase.io/file_attachments/7fa34216-379a-4b48-a7b4-5ac3cb00b237.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) 201903ver_HTE032_Manual_ol.pdf](https://docbase.io/file_attachments/7fa34216-379a-4b48-a7b4-5ac3cb00b237.pdf)",
+      "created_at": "2020-05-27T16:03:05+09:00"
+    },
+    {
+      "id": "5f949b20-d464-4642-b1f1-3e4ea3f6c88f.pdf",
+      "name": "HTE032_Manual_ol.pdf",
+      "size": 22580083,
+      "url": "https://docbase.io/file_attachments/5f949b20-d464-4642-b1f1-3e4ea3f6c88f.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE032_Manual_ol.pdf](https://docbase.io/file_attachments/5f949b20-d464-4642-b1f1-3e4ea3f6c88f.pdf)",
+      "created_at": "2020-05-27T16:03:20+09:00"
+    },
+    {
+      "id": "8782cffa-b33b-46ff-b0f2-e97d50bb0e56.pdf",
+      "name": "l0810_manual_12V-30V_ol.pdf",
+      "size": 25254340,
+      "url": "https://docbase.io/file_attachments/8782cffa-b33b-46ff-b0f2-e97d50bb0e56.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0810_manual_12V-30V_ol.pdf](https://docbase.io/file_attachments/8782cffa-b33b-46ff-b0f2-e97d50bb0e56.pdf)",
+      "created_at": "2022-08-26T15:49:10+09:00"
+    },
+    {
+      "id": "d4e8169d-e494-446d-a9bc-88ddb61a7c4d.pdf",
+      "name": "hte008_manual_12-30V_3.0_ol.pdf",
+      "size": 25855540,
+      "url": "https://docbase.io/file_attachments/d4e8169d-e494-446d-a9bc-88ddb61a7c4d.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) hte008_manual_12-30V_3.0_ol.pdf](https://docbase.io/file_attachments/d4e8169d-e494-446d-a9bc-88ddb61a7c4d.pdf)",
+      "created_at": "2022-08-26T15:52:46+09:00"
+    },
+    {
+      "id": "47ab8f2f-89a5-4ebf-86f4-cb40550430ac.pdf",
+      "name": "hte008_manual_12-30V_4.0_ol.pdf",
+      "size": 26240045,
+      "url": "https://docbase.io/file_attachments/47ab8f2f-89a5-4ebf-86f4-cb40550430ac.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) hte008_manual_12-30V_4.0_ol.pdf](https://docbase.io/file_attachments/47ab8f2f-89a5-4ebf-86f4-cb40550430ac.pdf)",
+      "created_at": "2022-08-26T15:53:22+09:00"
+    },
+    {
+      "id": "cde78d6e-ca50-46c5-a743-ebd5d27f2060.pdf",
+      "name": "hte008_manual_12-30V_5.0.pdf",
+      "size": 20273612,
+      "url": "https://docbase.io/file_attachments/cde78d6e-ca50-46c5-a743-ebd5d27f2060.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) hte008_manual_12-30V_5.0.pdf](https://docbase.io/file_attachments/cde78d6e-ca50-46c5-a743-ebd5d27f2060.pdf)",
+      "created_at": "2022-08-26T15:54:53+09:00"
+    },
+    {
+      "id": "02f3fca8-43a6-4e3d-823e-9a6e8d3ba0ae.pdf",
+      "name": "HTE032_ Manual_3.0_ol.pdf",
+      "size": 23435747,
+      "url": "https://docbase.io/file_attachments/02f3fca8-43a6-4e3d-823e-9a6e8d3ba0ae.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE032_ Manual_3.0_ol.pdf](https://docbase.io/file_attachments/02f3fca8-43a6-4e3d-823e-9a6e8d3ba0ae.pdf)",
+      "created_at": "2022-08-26T16:01:15+09:00"
+    },
+    {
+      "id": "bc86286f-d342-4a1a-8143-3343d1a3019c.pdf",
+      "name": "HTE032_ Manual_4.0_ol.pdf",
+      "size": 6959207,
+      "url": "https://docbase.io/file_attachments/bc86286f-d342-4a1a-8143-3343d1a3019c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE032_ Manual_4.0_ol.pdf](https://docbase.io/file_attachments/bc86286f-d342-4a1a-8143-3343d1a3019c.pdf)",
+      "created_at": "2022-08-26T16:03:14+09:00"
+    },
+    {
+      "id": "48601640-9e03-4dc8-9140-da9092237a64.pdf",
+      "name": "HTE032_ Manual_5.0.pdf",
+      "size": 21333388,
+      "url": "https://docbase.io/file_attachments/48601640-9e03-4dc8-9140-da9092237a64.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE032_ Manual_5.0.pdf](https://docbase.io/file_attachments/48601640-9e03-4dc8-9140-da9092237a64.pdf)",
+      "created_at": "2022-08-26T16:03:46+09:00"
+    },
+    {
+      "id": "25e3766a-e8c3-4feb-a82c-870199612586.pdf",
+      "name": "AC50_Manual_2.5_220712_ol.pdf",
+      "size": 28759526,
+      "url": "https://docbase.io/file_attachments/25e3766a-e8c3-4feb-a82c-870199612586.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_2.5_220712_ol.pdf](https://docbase.io/file_attachments/25e3766a-e8c3-4feb-a82c-870199612586.pdf)",
+      "created_at": "2022-08-26T16:15:55+09:00"
+    },
+    {
+      "id": "8dd06896-4ab5-4417-9b4a-6fcd586657ce.png",
+      "name": "スクリーンショット 2022-07-12 13.32.58.png",
+      "size": 398261,
+      "url": "https://image.docbase.io/uploads/8dd06896-4ab5-4417-9b4a-6fcd586657ce.png",
+      "markdown": "![スクリーンショット 2022-07-12 13.32.58.png](https://image.docbase.io/uploads/8dd06896-4ab5-4417-9b4a-6fcd586657ce.png)",
+      "created_at": "2022-08-26T16:16:10+09:00"
+    },
+    {
+      "id": "bc9965d6-101d-4887-8338-4650f9ed9748.pdf",
+      "name": "AC50_Manual_1.6.pdf",
+      "size": 1668858,
+      "url": "https://docbase.io/file_attachments/bc9965d6-101d-4887-8338-4650f9ed9748.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.6.pdf](https://docbase.io/file_attachments/bc9965d6-101d-4887-8338-4650f9ed9748.pdf)",
+      "created_at": "2022-08-26T16:18:04+09:00"
+    },
+    {
+      "id": "e100ccd7-923e-4d0d-85e8-58f4c94ae0c8.pdf",
+      "name": "AC50_Manual_1.7.pdf",
+      "size": 1664145,
+      "url": "https://docbase.io/file_attachments/e100ccd7-923e-4d0d-85e8-58f4c94ae0c8.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_1.7.pdf](https://docbase.io/file_attachments/e100ccd7-923e-4d0d-85e8-58f4c94ae0c8.pdf)",
+      "created_at": "2022-08-26T16:21:33+09:00"
+    },
+    {
+      "id": "d4d4c9b2-4738-445a-84d0-c96976f6ac8f.pdf",
+      "name": "AC50_Manual_0331.pdf",
+      "size": 1716503,
+      "url": "https://docbase.io/file_attachments/d4d4c9b2-4738-445a-84d0-c96976f6ac8f.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_0331.pdf](https://docbase.io/file_attachments/d4d4c9b2-4738-445a-84d0-c96976f6ac8f.pdf)",
+      "created_at": "2022-08-26T16:22:30+09:00"
+    },
+    {
+      "id": "4e0da625-1843-4c6a-9495-4830c08b5631.pdf",
+      "name": "取扱説明書_入稿.pdf",
+      "size": 7800801,
+      "url": "https://docbase.io/file_attachments/4e0da625-1843-4c6a-9495-4830c08b5631.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) 取扱説明書_入稿.pdf](https://docbase.io/file_attachments/4e0da625-1843-4c6a-9495-4830c08b5631.pdf)",
+      "created_at": "2022-08-26T16:24:03+09:00"
+    },
+    {
+      "id": "d6b06f47-71e9-4caa-aed8-b6884052ea65.pdf",
+      "name": "AC50_Manual_2.1_210623_ol.pdf",
+      "size": 28889908,
+      "url": "https://docbase.io/file_attachments/d6b06f47-71e9-4caa-aed8-b6884052ea65.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_2.1_210623_ol.pdf](https://docbase.io/file_attachments/d6b06f47-71e9-4caa-aed8-b6884052ea65.pdf)",
+      "created_at": "2022-08-26T16:24:28+09:00"
+    },
+    {
+      "id": "ae29da14-610e-4304-a251-c4da299356c2.pdf",
+      "name": "HTE060_Manual_2.1.pdf",
+      "size": 24301456,
+      "url": "https://docbase.io/file_attachments/ae29da14-610e-4304-a251-c4da299356c2.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE060_Manual_2.1.pdf](https://docbase.io/file_attachments/ae29da14-610e-4304-a251-c4da299356c2.pdf)",
+      "created_at": "2022-08-26T16:26:29+09:00"
+    },
+    {
+      "id": "818917be-cd07-4889-9439-473dc058608b.pdf",
+      "name": "AC30_Manual_1.0_ol.pdf",
+      "size": 55796257,
+      "url": "https://docbase.io/file_attachments/818917be-cd07-4889-9439-473dc058608b.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC30_Manual_1.0_ol.pdf](https://docbase.io/file_attachments/818917be-cd07-4889-9439-473dc058608b.pdf)",
+      "created_at": "2022-08-26T16:29:18+09:00"
+    },
+    {
+      "id": "d5330d11-6f4e-4491-8810-07b05ce74038.pdf",
+      "name": "AC30_Manual_1.1.pdf",
+      "size": 56915970,
+      "url": "https://docbase.io/file_attachments/d5330d11-6f4e-4491-8810-07b05ce74038.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC30_Manual_1.1.pdf](https://docbase.io/file_attachments/d5330d11-6f4e-4491-8810-07b05ce74038.pdf)",
+      "created_at": "2022-08-26T16:29:43+09:00"
+    },
+    {
+      "id": "f789702c-6862-4050-9083-0d03986eab2c.pdf",
+      "name": "ac30_manual_210726_ol.pdf",
+      "size": 35099964,
+      "url": "https://docbase.io/file_attachments/f789702c-6862-4050-9083-0d03986eab2c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_210726_ol.pdf](https://docbase.io/file_attachments/f789702c-6862-4050-9083-0d03986eab2c.pdf)",
+      "created_at": "2022-08-26T16:30:05+09:00"
+    },
+    {
+      "id": "a8eba7fc-b026-47e1-9921-02aba746c32d.pdf",
+      "name": "ac30_manual_211029_ol.pdf",
+      "size": 35496801,
+      "url": "https://docbase.io/file_attachments/a8eba7fc-b026-47e1-9921-02aba746c32d.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_211029_ol.pdf](https://docbase.io/file_attachments/a8eba7fc-b026-47e1-9921-02aba746c32d.pdf)",
+      "created_at": "2022-08-26T16:30:28+09:00"
+    },
+    {
+      "id": "79dcad22-f38e-42ef-8846-ac2784a3d541.pdf",
+      "name": "PA50_Manual_1_ol.pdf",
+      "size": 23640308,
+      "url": "https://docbase.io/file_attachments/79dcad22-f38e-42ef-8846-ac2784a3d541.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_Manual_1_ol.pdf](https://docbase.io/file_attachments/79dcad22-f38e-42ef-8846-ac2784a3d541.pdf)",
+      "created_at": "2022-08-26T16:34:00+09:00"
+    },
+    {
+      "id": "0d95ef7c-fda5-45c5-bbb4-4d0983f4a6cb.pdf",
+      "name": "PA50_Manual_1.1.pdf",
+      "size": 3713865,
+      "url": "https://docbase.io/file_attachments/0d95ef7c-fda5-45c5-bbb4-4d0983f4a6cb.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_Manual_1.1.pdf](https://docbase.io/file_attachments/0d95ef7c-fda5-45c5-bbb4-4d0983f4a6cb.pdf)",
+      "created_at": "2022-08-26T16:36:18+09:00"
+    },
+    {
+      "id": "8604089d-d0a7-4ab7-b9ae-f20b91da89ea.pdf",
+      "name": "PA50_manual_210803_ol.pdf",
+      "size": 24721008,
+      "url": "https://docbase.io/file_attachments/8604089d-d0a7-4ab7-b9ae-f20b91da89ea.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_210803_ol.pdf](https://docbase.io/file_attachments/8604089d-d0a7-4ab7-b9ae-f20b91da89ea.pdf)",
+      "created_at": "2022-08-26T16:36:45+09:00"
+    },
+    {
+      "id": "6c8bb76f-3412-46b2-a842-46ba6c7f3c99.pdf",
+      "name": "PA50_manual_211014_ol.pdf",
+      "size": 24794147,
+      "url": "https://docbase.io/file_attachments/6c8bb76f-3412-46b2-a842-46ba6c7f3c99.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_211014_ol.pdf](https://docbase.io/file_attachments/6c8bb76f-3412-46b2-a842-46ba6c7f3c99.pdf)",
+      "created_at": "2022-08-26T16:37:29+09:00"
+    },
+    {
+      "id": "c76a8028-2eca-4f8b-a557-fe9d5fa77f22.pdf",
+      "name": "PA50_manual_220128_ol.pdf",
+      "size": 7513544,
+      "url": "https://docbase.io/file_attachments/c76a8028-2eca-4f8b-a557-fe9d5fa77f22.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_220128_ol.pdf](https://docbase.io/file_attachments/c76a8028-2eca-4f8b-a557-fe9d5fa77f22.pdf)",
+      "created_at": "2022-08-26T16:38:09+09:00"
+    },
+    {
+      "id": "9307a85f-4f47-4ba4-b6e4-15dfe29aa7a8.png",
+      "name": "スクリーンショット 2022-01-27 14.39.46.png",
+      "size": 275980,
+      "url": "https://image.docbase.io/uploads/9307a85f-4f47-4ba4-b6e4-15dfe29aa7a8.png",
+      "markdown": "![スクリーンショット 2022-01-27 14.39.46.png](https://image.docbase.io/uploads/9307a85f-4f47-4ba4-b6e4-15dfe29aa7a8.png)",
+      "created_at": "2022-08-26T16:38:43+09:00"
+    },
+    {
+      "id": "4c5a1b45-eb15-47a0-a5c6-161058ab8849.png",
+      "name": "スクリーンショット 2022-01-27 14.37.30.png",
+      "size": 515717,
+      "url": "https://image.docbase.io/uploads/4c5a1b45-eb15-47a0-a5c6-161058ab8849.png",
+      "markdown": "![スクリーンショット 2022-01-27 14.37.30.png](https://image.docbase.io/uploads/4c5a1b45-eb15-47a0-a5c6-161058ab8849.png)",
+      "created_at": "2022-08-26T16:38:46+09:00"
+    },
+    {
+      "id": "4c082cd3-9c96-451a-a0c6-608304513bcd.png",
+      "name": "スクリーンショット 2022-01-27 14.38.59.png",
+      "size": 560130,
+      "url": "https://image.docbase.io/uploads/4c082cd3-9c96-451a-a0c6-608304513bcd.png",
+      "markdown": "![スクリーンショット 2022-01-27 14.38.59.png](https://image.docbase.io/uploads/4c082cd3-9c96-451a-a0c6-608304513bcd.png)",
+      "created_at": "2022-08-26T16:38:50+09:00"
+    },
+    {
+      "id": "69fcd8e9-84ec-4bf0-9782-8105fcbd3b4b.png",
+      "name": "スクリーンショット 2022-01-27 14.38.47.png",
+      "size": 738610,
+      "url": "https://image.docbase.io/uploads/69fcd8e9-84ec-4bf0-9782-8105fcbd3b4b.png",
+      "markdown": "![スクリーンショット 2022-01-27 14.38.47.png](https://image.docbase.io/uploads/69fcd8e9-84ec-4bf0-9782-8105fcbd3b4b.png)",
+      "created_at": "2022-08-26T16:38:52+09:00"
+    },
+    {
+      "id": "5decbd4c-01a1-4fb3-a567-b25b526fbf88.pdf",
+      "name": "PA50_manual_220404_ol.pdf",
+      "size": 24895457,
+      "url": "https://docbase.io/file_attachments/5decbd4c-01a1-4fb3-a567-b25b526fbf88.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_220404_ol.pdf](https://docbase.io/file_attachments/5decbd4c-01a1-4fb3-a567-b25b526fbf88.pdf)",
+      "created_at": "2022-08-26T16:39:28+09:00"
+    },
+    {
+      "id": "8afcbbcd-971b-4b47-beb9-02a1a5808c3e.pdf",
+      "name": "l0829_Manual_5.0_ol.pdf",
+      "size": 8208923,
+      "url": "https://docbase.io/file_attachments/8afcbbcd-971b-4b47-beb9-02a1a5808c3e.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0829_Manual_5.0_ol.pdf](https://docbase.io/file_attachments/8afcbbcd-971b-4b47-beb9-02a1a5808c3e.pdf)",
+      "created_at": "2022-08-26T16:46:12+09:00"
+    },
+    {
+      "id": "0a12180a-bfac-4cd0-bb5c-695176202e7f.pdf",
+      "name": "l0829_Manual_5.1_ol.pdf",
+      "size": 10764576,
+      "url": "https://docbase.io/file_attachments/0a12180a-bfac-4cd0-bb5c-695176202e7f.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0829_Manual_5.1_ol.pdf](https://docbase.io/file_attachments/0a12180a-bfac-4cd0-bb5c-695176202e7f.pdf)",
+      "created_at": "2022-08-26T16:46:35+09:00"
+    },
+    {
+      "id": "2b03746f-f22c-49b3-b93d-790d11c7da07.pdf",
+      "name": "l0829_Manual_5.4_ol.pdf",
+      "size": 9088368,
+      "url": "https://docbase.io/file_attachments/2b03746f-f22c-49b3-b93d-790d11c7da07.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0829_Manual_5.4_ol.pdf](https://docbase.io/file_attachments/2b03746f-f22c-49b3-b93d-790d11c7da07.pdf)",
+      "created_at": "2022-08-26T16:47:21+09:00"
+    },
+    {
+      "id": "d2326a18-a612-4e12-b784-06fe1f8d51ff.png",
+      "name": "スクリーンショット 2022-07-27 22.22.49.png",
+      "size": 153018,
+      "url": "https://image.docbase.io/uploads/d2326a18-a612-4e12-b784-06fe1f8d51ff.png",
+      "markdown": "![スクリーンショット 2022-07-27 22.22.49.png](https://image.docbase.io/uploads/d2326a18-a612-4e12-b784-06fe1f8d51ff.png)",
+      "created_at": "2022-08-26T16:47:44+09:00"
+    },
+    {
+      "id": "31763f0e-caa8-4373-8833-5797efd67485.pdf",
+      "name": "l0829_Manual_5.3_ol.pdf",
+      "size": 2777343,
+      "url": "https://docbase.io/file_attachments/31763f0e-caa8-4373-8833-5797efd67485.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0829_Manual_5.3_ol.pdf](https://docbase.io/file_attachments/31763f0e-caa8-4373-8833-5797efd67485.pdf)",
+      "created_at": "2022-08-26T16:48:02+09:00"
+    },
+    {
+      "id": "2d3ce2bf-9a34-47e3-b96a-9cfcc2d21bbd.pdf",
+      "name": "l0829_Manual_5.2_ol.pdf",
+      "size": 9029484,
+      "url": "https://docbase.io/file_attachments/2d3ce2bf-9a34-47e3-b96a-9cfcc2d21bbd.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0829_Manual_5.2_ol.pdf](https://docbase.io/file_attachments/2d3ce2bf-9a34-47e3-b96a-9cfcc2d21bbd.pdf)",
+      "created_at": "2022-08-26T16:48:29+09:00"
+    },
+    {
+      "id": "c3b799ab-218b-423b-9df8-416e5a0effb5.pdf",
+      "name": "l0822_Manual_ol.pdf",
+      "size": 8620625,
+      "url": "https://docbase.io/file_attachments/c3b799ab-218b-423b-9df8-416e5a0effb5.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0822_Manual_ol.pdf](https://docbase.io/file_attachments/c3b799ab-218b-423b-9df8-416e5a0effb5.pdf)",
+      "created_at": "2022-08-26T16:50:10+09:00"
+    },
+    {
+      "id": "3e78f1fb-1246-4b2a-84e1-38716a897efd.pdf",
+      "name": "l0827_Manual_ol.pdf",
+      "size": 11636366,
+      "url": "https://docbase.io/file_attachments/3e78f1fb-1246-4b2a-84e1-38716a897efd.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0827_Manual_ol.pdf](https://docbase.io/file_attachments/3e78f1fb-1246-4b2a-84e1-38716a897efd.pdf)",
+      "created_at": "2022-08-26T16:51:02+09:00"
+    },
+    {
+      "id": "69259ee3-6d51-4d3a-a1ad-71534c9bceb2.pdf",
+      "name": "l0827_Manual_ol (1).pdf",
+      "size": 10465210,
+      "url": "https://docbase.io/file_attachments/69259ee3-6d51-4d3a-a1ad-71534c9bceb2.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0827_Manual_ol (1).pdf](https://docbase.io/file_attachments/69259ee3-6d51-4d3a-a1ad-71534c9bceb2.pdf)",
+      "created_at": "2022-08-26T16:51:11+09:00"
+    },
+    {
+      "id": "918330cf-cf74-4928-88d2-5808e085fcea.pdf",
+      "name": "l0838_Manual_1.0_ol.pdf",
+      "size": 3654135,
+      "url": "https://docbase.io/file_attachments/918330cf-cf74-4928-88d2-5808e085fcea.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0838_Manual_1.0_ol.pdf](https://docbase.io/file_attachments/918330cf-cf74-4928-88d2-5808e085fcea.pdf)",
+      "created_at": "2022-08-26T16:52:20+09:00"
+    },
+    {
+      "id": "71612d43-d0ae-49fe-a12b-6f59fd8be242.pdf",
+      "name": "l0838_Manual_2.0_ol.pdf",
+      "size": 8985439,
+      "url": "https://docbase.io/file_attachments/71612d43-d0ae-49fe-a12b-6f59fd8be242.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0838_Manual_2.0_ol.pdf](https://docbase.io/file_attachments/71612d43-d0ae-49fe-a12b-6f59fd8be242.pdf)",
+      "created_at": "2022-08-26T16:52:38+09:00"
+    },
+    {
+      "id": "050798b9-5bdf-4eff-83ac-d9af70fa7848.pdf",
+      "name": "l0838_Manual_2.1_ol.pdf",
+      "size": 2775349,
+      "url": "https://docbase.io/file_attachments/050798b9-5bdf-4eff-83ac-d9af70fa7848.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0838_Manual_2.1_ol.pdf](https://docbase.io/file_attachments/050798b9-5bdf-4eff-83ac-d9af70fa7848.pdf)",
+      "created_at": "2022-08-26T16:52:58+09:00"
+    },
+    {
+      "id": "3aef4441-4594-43c6-aadb-79fcf4bc7229.pdf",
+      "name": "l0838_Manual_2.2_ol.pdf",
+      "size": 9087428,
+      "url": "https://docbase.io/file_attachments/3aef4441-4594-43c6-aadb-79fcf4bc7229.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) l0838_Manual_2.2_ol.pdf](https://docbase.io/file_attachments/3aef4441-4594-43c6-aadb-79fcf4bc7229.pdf)",
+      "created_at": "2022-08-26T16:53:16+09:00"
+    },
+    {
+      "id": "9e8d564d-8f8b-447d-8814-ba1953a3f76e.png",
+      "name": "スクリーンショット 2022-07-27 22.22.49.png",
+      "size": 153018,
+      "url": "https://image.docbase.io/uploads/9e8d564d-8f8b-447d-8814-ba1953a3f76e.png",
+      "markdown": "![スクリーンショット 2022-07-27 22.22.49.png](https://image.docbase.io/uploads/9e8d564d-8f8b-447d-8814-ba1953a3f76e.png)",
+      "created_at": "2022-08-26T16:53:27+09:00"
+    },
+    {
+      "id": "eca76572-6a16-4f25-8ed2-7c15b119c735.png",
+      "name": "スクリーンショット 2022-08-30 13.04.30.png",
+      "size": 147445,
+      "url": "https://image.docbase.io/uploads/eca76572-6a16-4f25-8ed2-7c15b119c735.png",
+      "markdown": "![スクリーンショット 2022-08-30 13.04.30.png](https://image.docbase.io/uploads/eca76572-6a16-4f25-8ed2-7c15b119c735.png)",
+      "created_at": "2022-08-30T13:05:57+09:00"
+    },
+    {
+      "id": "b9022f22-ddaf-45c8-8964-8cfdd82cf561.png",
+      "name": "スクリーンショット 2022-08-30 13.04.37.png",
+      "size": 101878,
+      "url": "https://image.docbase.io/uploads/b9022f22-ddaf-45c8-8964-8cfdd82cf561.png",
+      "markdown": "![スクリーンショット 2022-08-30 13.04.37.png](https://image.docbase.io/uploads/b9022f22-ddaf-45c8-8964-8cfdd82cf561.png)",
+      "created_at": "2022-08-30T13:06:09+09:00"
+    },
+    {
+      "id": "f05ec57c-2157-4418-9c28-0bc89c54038b.pdf",
+      "name": "AQ25L_manual_2.1.pdf",
+      "size": 914824,
+      "url": "https://docbase.io/file_attachments/f05ec57c-2157-4418-9c28-0bc89c54038b.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ25L_manual_2.1.pdf](https://docbase.io/file_attachments/f05ec57c-2157-4418-9c28-0bc89c54038b.pdf)",
+      "created_at": "2022-09-08T10:56:25+09:00"
+    },
+    {
+      "id": "3927c708-4773-49ba-99c6-2e81404d22e1.pdf",
+      "name": "AQ25L_manual_ol.pdf",
+      "size": 14870087,
+      "url": "https://docbase.io/file_attachments/3927c708-4773-49ba-99c6-2e81404d22e1.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ25L_manual_ol.pdf](https://docbase.io/file_attachments/3927c708-4773-49ba-99c6-2e81404d22e1.pdf)",
+      "created_at": "2022-09-08T10:57:17+09:00"
+    },
+    {
+      "id": "fd2ec9f9-486c-41b6-8da9-e7d8d5971454.pdf",
+      "name": "FahLight_Manual_ol.pdf",
+      "size": 7511975,
+      "url": "https://docbase.io/file_attachments/fd2ec9f9-486c-41b6-8da9-e7d8d5971454.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) FahLight_Manual_ol.pdf](https://docbase.io/file_attachments/fd2ec9f9-486c-41b6-8da9-e7d8d5971454.pdf)",
+      "created_at": "2022-09-08T11:03:34+09:00"
+    },
+    {
+      "id": "c7b1f2d6-6fb0-4c74-9cd1-7c1d1d22971c.pdf",
+      "name": "FanLight_Manual_1.2_ol.pdf",
+      "size": 2297054,
+      "url": "https://docbase.io/file_attachments/c7b1f2d6-6fb0-4c74-9cd1-7c1d1d22971c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) FanLight_Manual_1.2_ol.pdf](https://docbase.io/file_attachments/c7b1f2d6-6fb0-4c74-9cd1-7c1d1d22971c.pdf)",
+      "created_at": "2022-09-08T11:04:44+09:00"
+    },
+    {
+      "id": "9c1b4012-630e-4e72-bb30-d96e24ed3d82.pdf",
+      "name": "ac30_manual_220618_ol.pdf",
+      "size": 12296459,
+      "url": "https://docbase.io/file_attachments/9c1b4012-630e-4e72-bb30-d96e24ed3d82.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_220618_ol.pdf](https://docbase.io/file_attachments/9c1b4012-630e-4e72-bb30-d96e24ed3d82.pdf)",
+      "created_at": "2022-09-08T11:22:39+09:00"
+    },
+    {
+      "id": "33fb6c69-0d73-446a-8afd-a94035ecd722.pdf",
+      "name": "PA50_manual_ol.pdf",
+      "size": 25534127,
+      "url": "https://docbase.io/file_attachments/33fb6c69-0d73-446a-8afd-a94035ecd722.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_ol.pdf](https://docbase.io/file_attachments/33fb6c69-0d73-446a-8afd-a94035ecd722.pdf)",
+      "created_at": "2022-09-08T11:24:29+09:00"
+    },
+    {
+      "id": "b889ed99-641f-421b-9096-641846be3e09.pdf",
+      "name": "AC50_Manual_2.6_220909_ol.pdf",
+      "size": 28654632,
+      "url": "https://docbase.io/file_attachments/b889ed99-641f-421b-9096-641846be3e09.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_Manual_2.6_220909_ol.pdf](https://docbase.io/file_attachments/b889ed99-641f-421b-9096-641846be3e09.pdf)",
+      "created_at": "2022-09-09T12:31:47+09:00"
+    },
+    {
+      "id": "59512446-3d8f-424b-ad67-2abe8d9b2ea0.pdf",
+      "name": "HTE060_Manual_2.1_ol.pdf",
+      "size": 24235691,
+      "url": "https://docbase.io/file_attachments/59512446-3d8f-424b-ad67-2abe8d9b2ea0.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE060_Manual_2.1_ol.pdf](https://docbase.io/file_attachments/59512446-3d8f-424b-ad67-2abe8d9b2ea0.pdf)",
+      "created_at": "2022-09-09T12:43:45+09:00"
+    },
+    {
+      "id": "0b342200-4674-4267-bf1f-93cf0f2bb120.pdf",
+      "name": "ac30_manual_ol.pdf",
+      "size": 35440248,
+      "url": "https://docbase.io/file_attachments/0b342200-4674-4267-bf1f-93cf0f2bb120.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_ol.pdf](https://docbase.io/file_attachments/0b342200-4674-4267-bf1f-93cf0f2bb120.pdf)",
+      "created_at": "2022-09-09T12:52:04+09:00"
+    },
+    {
+      "id": "fafc07de-089f-44a3-bcca-d4ad4d206148.pdf",
+      "name": "PA50_manual_ol.pdf",
+      "size": 25576808,
+      "url": "https://docbase.io/file_attachments/fafc07de-089f-44a3-bcca-d4ad4d206148.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_ol.pdf](https://docbase.io/file_attachments/fafc07de-089f-44a3-bcca-d4ad4d206148.pdf)",
+      "created_at": "2022-09-09T13:00:12+09:00"
+    },
+    {
+      "id": "eda609e7-3a3e-4ea1-b6ce-5f0a35b6a8f0.pdf",
+      "name": "ac30_manual_ol.pdf",
+      "size": 35439494,
+      "url": "https://docbase.io/file_attachments/eda609e7-3a3e-4ea1-b6ce-5f0a35b6a8f0.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_ol.pdf](https://docbase.io/file_attachments/eda609e7-3a3e-4ea1-b6ce-5f0a35b6a8f0.pdf)",
+      "created_at": "2022-10-18T11:02:52+09:00"
+    },
+    {
+      "id": "3fc335f7-d5c5-4eb5-af5f-2916682722a0.png",
+      "name": "スクリーンショット 2022-12-01 14.43.51.png",
+      "size": 74190,
+      "url": "https://image.docbase.io/uploads/3fc335f7-d5c5-4eb5-af5f-2916682722a0.png",
+      "markdown": "![スクリーンショット 2022-12-01 14.43.51.png](https://image.docbase.io/uploads/3fc335f7-d5c5-4eb5-af5f-2916682722a0.png)",
+      "created_at": "2022-12-01T14:53:07+09:00"
+    },
+    {
+      "id": "918b0d8f-4dba-4e56-a608-573896c0b8f0.png",
+      "name": "スクリーンショット 2023-10-13 13.12.45.png",
+      "size": 183752,
+      "url": "https://image.docbase.io/uploads/918b0d8f-4dba-4e56-a608-573896c0b8f0.png",
+      "markdown": "![スクリーンショット 2023-10-13 13.12.45.png](https://image.docbase.io/uploads/918b0d8f-4dba-4e56-a608-573896c0b8f0.png)",
+      "created_at": "2023-10-13T13:18:19+09:00"
+    },
+    {
+      "id": "310cb346-6d5b-4c66-b034-73c2e10253ae.pdf",
+      "name": "hte008_manual_12-30V_5.2_ol.pdf",
+      "size": 20543435,
+      "url": "https://docbase.io/file_attachments/310cb346-6d5b-4c66-b034-73c2e10253ae.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) hte008_manual_12-30V_5.2_ol.pdf](https://docbase.io/file_attachments/310cb346-6d5b-4c66-b034-73c2e10253ae.pdf)",
+      "created_at": "2023-10-13T13:18:35+09:00"
+    },
+    {
+      "id": "fb05514f-19f9-4b86-9e18-1ce414f8834a.pdf",
+      "name": "HTE032_manual_ol.pdf",
+      "size": 21680944,
+      "url": "https://docbase.io/file_attachments/fb05514f-19f9-4b86-9e18-1ce414f8834a.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE032_manual_ol.pdf](https://docbase.io/file_attachments/fb05514f-19f9-4b86-9e18-1ce414f8834a.pdf)",
+      "created_at": "2023-10-13T13:32:47+09:00"
+    },
+    {
+      "id": "5bf197aa-e525-4be7-a1bd-efa70c161227.pdf",
+      "name": "AC50_manual_ol.pdf",
+      "size": 29559746,
+      "url": "https://docbase.io/file_attachments/5bf197aa-e525-4be7-a1bd-efa70c161227.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AC50_manual_ol.pdf](https://docbase.io/file_attachments/5bf197aa-e525-4be7-a1bd-efa70c161227.pdf)",
+      "created_at": "2023-10-13T13:55:20+09:00"
+    },
+    {
+      "id": "14e5bd8b-a1a9-478b-939c-4be93e757c1c.pdf",
+      "name": "HTE060_manual_ol.pdf",
+      "size": 24643874,
+      "url": "https://docbase.io/file_attachments/14e5bd8b-a1a9-478b-939c-4be93e757c1c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) HTE060_manual_ol.pdf](https://docbase.io/file_attachments/14e5bd8b-a1a9-478b-939c-4be93e757c1c.pdf)",
+      "created_at": "2023-10-13T14:14:01+09:00"
+    },
+    {
+      "id": "a437f507-eb54-4de4-817e-fb35c9d8d78b.pdf",
+      "name": "ac30_manual_ol.pdf",
+      "size": 35835201,
+      "url": "https://docbase.io/file_attachments/a437f507-eb54-4de4-817e-fb35c9d8d78b.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) ac30_manual_ol.pdf](https://docbase.io/file_attachments/a437f507-eb54-4de4-817e-fb35c9d8d78b.pdf)",
+      "created_at": "2023-10-13T14:27:46+09:00"
+    },
+    {
+      "id": "ae97fd92-8cc3-40e1-8fff-bc3d8c20a596.pdf",
+      "name": "PA50_manual_ol.pdf",
+      "size": 25866847,
+      "url": "https://docbase.io/file_attachments/ae97fd92-8cc3-40e1-8fff-bc3d8c20a596.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA50_manual_ol.pdf](https://docbase.io/file_attachments/ae97fd92-8cc3-40e1-8fff-bc3d8c20a596.pdf)",
+      "created_at": "2023-10-13T15:12:09+09:00"
+    },
+    {
+      "id": "00d0aae1-f916-4df1-a940-8e3ec1081534.pdf",
+      "name": "PA200_manual_ol.pdf",
+      "size": 24485546,
+      "url": "https://docbase.io/file_attachments/00d0aae1-f916-4df1-a940-8e3ec1081534.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA200_manual_ol.pdf](https://docbase.io/file_attachments/00d0aae1-f916-4df1-a940-8e3ec1081534.pdf)",
+      "created_at": "2023-10-13T15:12:43+09:00"
+    },
+    {
+      "id": "525b1d46-9cea-4e75-9337-1cc6a8e5a976.pdf",
+      "name": "PA70_manual_ol.pdf",
+      "size": 23359488,
+      "url": "https://docbase.io/file_attachments/525b1d46-9cea-4e75-9337-1cc6a8e5a976.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA70_manual_ol.pdf](https://docbase.io/file_attachments/525b1d46-9cea-4e75-9337-1cc6a8e5a976.pdf)",
+      "created_at": "2023-10-13T15:13:34+09:00"
+    },
+    {
+      "id": "446b3b54-02d8-494f-ac79-db9c3cf59952.pdf",
+      "name": "PA100_manual_ol.pdf",
+      "size": 25085509,
+      "url": "https://docbase.io/file_attachments/446b3b54-02d8-494f-ac79-db9c3cf59952.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA100_manual_ol.pdf](https://docbase.io/file_attachments/446b3b54-02d8-494f-ac79-db9c3cf59952.pdf)",
+      "created_at": "2023-10-13T15:14:12+09:00"
+    },
+    {
+      "id": "70cea4f0-3499-4700-b88b-b05f983d7d62.pdf",
+      "name": "AQ25L_manual_2.2_ol.pdf",
+      "size": 15818333,
+      "url": "https://docbase.io/file_attachments/70cea4f0-3499-4700-b88b-b05f983d7d62.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ25L_manual_2.2_ol.pdf](https://docbase.io/file_attachments/70cea4f0-3499-4700-b88b-b05f983d7d62.pdf)",
+      "created_at": "2023-10-18T12:20:38+09:00"
+    },
+    {
+      "id": "592b0bb0-237b-46ad-9b63-bf56cc430af4.png",
+      "name": "スクリーンショット 2023-10-26 14.29.19.png",
+      "size": 115086,
+      "url": "https://image.docbase.io/uploads/592b0bb0-237b-46ad-9b63-bf56cc430af4.png",
+      "markdown": "![スクリーンショット 2023-10-26 14.29.19.png](https://image.docbase.io/uploads/592b0bb0-237b-46ad-9b63-bf56cc430af4.png)",
+      "created_at": "2023-10-26T18:06:42+09:00"
+    },
+    {
+      "id": "61130fa5-d620-485c-8a02-1bc4ba23c0a9.pdf",
+      "name": "AQ25L_manual_ol.pdf",
+      "size": 16098061,
+      "url": "https://docbase.io/file_attachments/61130fa5-d620-485c-8a02-1bc4ba23c0a9.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ25L_manual_ol.pdf](https://docbase.io/file_attachments/61130fa5-d620-485c-8a02-1bc4ba23c0a9.pdf)",
+      "created_at": "2023-11-03T16:00:02+09:00"
+    },
+    {
+      "id": "43b168a2-706b-4e69-afbb-6f83bd89aa9c.pdf",
+      "name": "AQ45L_manual_ol.pdf",
+      "size": 25293726,
+      "url": "https://docbase.io/file_attachments/43b168a2-706b-4e69-afbb-6f83bd89aa9c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ45L_manual_ol.pdf](https://docbase.io/file_attachments/43b168a2-706b-4e69-afbb-6f83bd89aa9c.pdf)",
+      "created_at": "2023-11-03T16:00:40+09:00"
+    },
+    {
+      "id": "d69d98e2-fd10-4849-808f-1ff6f9758b9b.pdf",
+      "name": "PA100_manual_ol.pdf",
+      "size": 7797582,
+      "url": "https://docbase.io/file_attachments/d69d98e2-fd10-4849-808f-1ff6f9758b9b.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA100_manual_ol.pdf](https://docbase.io/file_attachments/d69d98e2-fd10-4849-808f-1ff6f9758b9b.pdf)",
+      "created_at": "2024-01-17T10:46:13+09:00"
+    },
+    {
+      "id": "306f640d-cff1-40c0-b086-c9b84130ac83.pdf",
+      "name": "PA100_manual_OL.pdf",
+      "size": 7808200,
+      "url": "https://docbase.io/file_attachments/306f640d-cff1-40c0-b086-c9b84130ac83.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA100_manual_OL.pdf](https://docbase.io/file_attachments/306f640d-cff1-40c0-b086-c9b84130ac83.pdf)",
+      "created_at": "2024-02-17T16:47:29+09:00"
+    },
+    {
+      "id": "cff008b0-da8e-48d7-bbff-1990c9817d3a.jpg",
+      "name": "マイタスク ICEBERG2修正 Apr 26 Screenshot.jpg",
+      "size": 21176,
+      "url": "https://image.docbase.io/uploads/cff008b0-da8e-48d7-bbff-1990c9817d3a.jpg",
+      "markdown": "![マイタスク ICEBERG2修正 Apr 26 Screenshot.jpg](https://image.docbase.io/uploads/cff008b0-da8e-48d7-bbff-1990c9817d3a.jpg)",
+      "created_at": "2024-04-29T10:40:10+09:00"
+    },
+    {
+      "id": "a3d0e0bb-378c-4376-bed7-b853d07d307c.pdf",
+      "name": "PA100_manual_ol.pdf",
+      "size": 25414465,
+      "url": "https://docbase.io/file_attachments/a3d0e0bb-378c-4376-bed7-b853d07d307c.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) PA100_manual_ol.pdf](https://docbase.io/file_attachments/a3d0e0bb-378c-4376-bed7-b853d07d307c.pdf)",
+      "created_at": "2024-05-07T17:51:37+09:00"
+    },
+    {
+      "id": "3554f658-fd97-4070-8c31-8c43f446fb60.png",
+      "name": "スクリーンショット 2024-08-21 17.47.11（2）.png",
+      "size": 315262,
+      "url": "https://image.docbase.io/uploads/3554f658-fd97-4070-8c31-8c43f446fb60.png",
+      "markdown": "![スクリーンショット 2024-08-21 17.47.11（2）.png](https://image.docbase.io/uploads/3554f658-fd97-4070-8c31-8c43f446fb60.png)",
+      "created_at": "2024-08-21T19:10:27+09:00"
+    },
+    {
+      "id": "e3c9c2b2-741c-42c0-a822-b1611c3deb12.jpg",
+      "name": "変更点.jpg",
+      "size": 79187,
+      "url": "https://image.docbase.io/uploads/e3c9c2b2-741c-42c0-a822-b1611c3deb12.jpg",
+      "markdown": "![変更点.jpg](https://image.docbase.io/uploads/e3c9c2b2-741c-42c0-a822-b1611c3deb12.jpg)",
+      "created_at": "2025-05-20T12:24:37+09:00"
+    },
+    {
+      "id": "77bf9857-c683-4b19-8379-96e4d08bc512.pdf",
+      "name": "AQ25L_manual_2.5_ol.pdf",
+      "size": 16301477,
+      "url": "https://docbase.io/file_attachments/77bf9857-c683-4b19-8379-96e4d08bc512.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ25L_manual_2.5_ol.pdf](https://docbase.io/file_attachments/77bf9857-c683-4b19-8379-96e4d08bc512.pdf)",
+      "created_at": "2025-05-20T12:25:23+09:00"
+    },
+    {
+      "id": "2ac85847-f713-401d-9616-63f6af815215.pdf",
+      "name": "AQ45L_manual_ol.pdf",
+      "size": 25597019,
+      "url": "https://docbase.io/file_attachments/2ac85847-f713-401d-9616-63f6af815215.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) AQ45L_manual_ol.pdf](https://docbase.io/file_attachments/2ac85847-f713-401d-9616-63f6af815215.pdf)",
+      "created_at": "2025-05-20T12:46:31+09:00"
+    },
+    {
+      "id": "46b42e9f-673c-4cbf-8f85-fd80140faee7.jpg",
+      "name": "変更点.jpg",
+      "size": 184026,
+      "url": "https://image.docbase.io/uploads/46b42e9f-673c-4cbf-8f85-fd80140faee7.jpg",
+      "markdown": "![変更点.jpg](https://image.docbase.io/uploads/46b42e9f-673c-4cbf-8f85-fd80140faee7.jpg)",
+      "created_at": "2025-05-20T12:47:10+09:00"
+    },
+    {
+      "id": "b04679cc-c827-4cf0-bc2a-d339fac40d91.pdf",
+      "name": "F29L_Manual_ol.pdf",
+      "size": 21573301,
+      "url": "https://docbase.io/file_attachments/b04679cc-c827-4cf0-bc2a-d339fac40d91.pdf",
+      "markdown": "[![pdf](/images/file_icons/pdf.svg) F29L_Manual_ol.pdf](https://docbase.io/file_attachments/b04679cc-c827-4cf0-bc2a-d339fac40d91.pdf)",
+      "created_at": "2025-05-20T12:49:20+09:00"
+    },
+    {
+      "id": "fc054328-ded7-483d-90d4-a0599081ec94.jpg",
+      "name": "変更点.jpg",
+      "size": 184026,
+      "url": "https://image.docbase.io/uploads/fc054328-ded7-483d-90d4-a0599081ec94.jpg",
+      "markdown": "![変更点.jpg](https://image.docbase.io/uploads/fc054328-ded7-483d-90d4-a0599081ec94.jpg)",
+      "created_at": "2025-05-20T12:49:29+09:00"
+    },
+    {
+      "id": "27004580-5a47-4430-8613-2e39244dfbac.png",
+      "name": "スクリーンショット 2025-06-23 13.44.22.png",
+      "size": 318038,
+      "url": "https://image.docbase.io/uploads/27004580-5a47-4430-8613-2e39244dfbac.png",
+      "markdown": "![スクリーンショット 2025-06-23 13.44.22.png](https://image.docbase.io/uploads/27004580-5a47-4430-8613-2e39244dfbac.png)",
+      "created_at": "2025-06-25T11:16:03+09:00"
+    }
+  ]
+}
