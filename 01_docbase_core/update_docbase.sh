@@ -5,12 +5,12 @@ echo "DocBase記事更新ツール"
 echo "====================="
 
 # 仮想環境を有効化
-if [ -d "docbase_env" ]; then
-    source docbase_env/bin/activate
+if [ -d "../docbase_env" ]; then
+    source ../docbase_env/bin/activate
 else
     echo "仮想環境を作成中..."
-    python3 -m venv docbase_env
-    source docbase_env/bin/activate
+    python3 -m venv ../docbase_env
+    source ../docbase_env/bin/activate
     echo "必要なライブラリをインストール中..."
     pip install requests
 fi
@@ -34,8 +34,8 @@ if [ -z "$DOCBASE_ACCESS_TOKEN" ]; then
 fi
 
 # .envファイルがあれば読み込む
-if [ -f .env ]; then
-    export $(cat .env | xargs)
+if [ -f ../.env ]; then
+    export $(cat ../.env | xargs)
 fi
 
 # Pythonスクリプトを実行

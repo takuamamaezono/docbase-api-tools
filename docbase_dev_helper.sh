@@ -23,7 +23,7 @@ case "$1" in
             echo "使い方: ./docbase_helper.sh get <記事ID>"
             exit 1
         fi
-        python3 docbase_helper.py get "$2"
+        python3 01_docbase_core/docbase_helper.py get "$2"
         ;;
     
     "update")
@@ -32,7 +32,7 @@ case "$1" in
             echo "使い方: ./docbase_helper.sh update <記事ID> <更新内容ファイル>"
             exit 1
         fi
-        python3 docbase_helper.py update "$2" "$3"
+        python3 01_docbase_core/docbase_helper.py update "$2" "$3"
         ;;
     
     "add-section")
@@ -41,7 +41,7 @@ case "$1" in
             echo "使い方: ./docbase_helper.sh add-section <記事ID> <セクション名> <内容>"
             exit 1
         fi
-        python3 docbase_helper.py add-section "$2" "$3" "$4"
+        python3 01_docbase_core/docbase_helper.py add-section "$2" "$3" "$4"
         ;;
     
     "replace")
@@ -50,11 +50,11 @@ case "$1" in
             echo "使い方: ./docbase_helper.sh replace <記事ID> <old.txt> <new.txt>"
             exit 1
         fi
-        python3 docbase_helper.py replace "$2" "$3" "$4"
+        python3 01_docbase_core/docbase_helper.py replace "$2" "$3" "$4"
         ;;
     
     "list")
-        python3 docbase_helper.py list "$2"
+        python3 01_docbase_core/docbase_helper.py list "$2"
         ;;
     
     "create")
@@ -63,7 +63,7 @@ case "$1" in
             echo "使い方: ./docbase_helper.sh create <タイトル> <内容ファイル> [タグ1,タグ2]"
             exit 1
         fi
-        python3 docbase_helper.py create "$2" "$3" "$4"
+        python3 01_docbase_core/docbase_helper.py create "$2" "$3" "$4"
         ;;
     
     "quick-add")
@@ -83,7 +83,7 @@ case "$1" in
         # セクション名を聞く
         read -p "セクション名を入力: " section_name
         
-        python3 docbase_helper.py add-section "$2" "$section_name" "$(cat $temp_file)"
+        python3 01_docbase_core/docbase_helper.py add-section "$2" "$section_name" "$(cat $temp_file)"
         rm "$temp_file"
         ;;
     

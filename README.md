@@ -4,36 +4,22 @@ Docbase記事の管理・更新・自動化ツールのコレクションです�
 
 ## 📁 フォルダ構造
 
-### 🔧 core/ - コア機能
+### 🔧 01_docbase_core/ - コア機能
 Docbaseの基本的な記事更新機能
 
-- `docbase_env/` - Python仮想環境
+- `docbase_helper.py` - 汎用記事操作ヘルパー
 - `docbase_updater.py` - メイン記事更新スクリプト
 - `update_docbase_article.py` - 個別記事更新
 - `update_docbase.sh` - 実行用シェルスクリプト
+- `create_docbase_article.py` - 新規記事作成
 
 **使い方:**
 ```bash
-cd core
+cd 01_docbase_core
 ./update_docbase.sh
 ```
 
-### 📚 docs/ - ドキュメント
-システムのルールとAPIガイド
-
-- `DOCBASE_RULES.md` - 重要なルールと設定
-- `DOCBASE_API_GUIDE.md` - API使用方法
-
-### 📝 lp_generator/ - LP欄生成システム
-商品のLP欄を自動生成するシステム（新機能）
-
-**使い方:**
-```bash
-cd lp_generator
-./run_lp_generator.sh
-```
-
-### 🔍 faq_tools/ - FAQ管理ツール
+### ❓ 02_faq_management/ - FAQ管理システム
 FAQ記事の管理・更新・分析ツール
 
 #### add_flags/ - フラグ追加機能
@@ -49,7 +35,7 @@ FAQ記事の管理・更新・分析ツール
 - `faq_flag_manager.py` - フラグ管理
 - `FAQ_FLAG_GUIDE.md` - フラグ機能ガイド
 
-### 📖 manual_creators/ - マニュアル作成ツール
+### 📚 03_manual_generation/ - マニュアル作成システム
 各種マニュアル・記事の自動生成
 
 #### asana/ - Asana関連
@@ -61,43 +47,74 @@ FAQ記事の管理・更新・分析ツール
 #### chatbot/ - チャットボット用
 - チャットボット向けコンテンツ作成
 
-### ⚠️ old_article_warning/ - 古い記事警告システム
-古い記事に警告を追加するシステム
+### 🤖 04_article_automation/ - 記事自動化システム
+記事の自動化関連機能
+
+#### old_article_warning/ - 古い記事警告システム
+- 古い記事に警告を追加するシステム
+- `README.md` - 詳細な使用方法
+
+#### その他の自動化機能
+- `create_shopify_folder_structure_article.py` - Shopify記事自動生成
+
+### 🛠️ 05_work_scripts/ - 作業用スクリプト
+個別の作業・更新用スクリプト集
+
+- 特定記事の更新・取得スクリプト
+- セクション移動・追加スクリプト
+- 一時的な作業用ツール
+
+### 📖 docs/ - ドキュメント
+システムのルールとAPIガイド
+
+- `DOCBASE_API_GUIDE.md` - API使用方法
+- `POWERARQ_FAQ_AUTOMATION_LOG.md` - プロジェクトログ
 
 ### 🗄️ archive/ - アーカイブ
 使用頻度の低いファイル・履歴保存
 
-#### 2024_powerarq_faq/ - PowerArQ FAQ更新履歴
-#### article_backups/ - 記事バックアップ
-#### temp_scripts/ - 一時的なスクリプト
-#### special_articles/ - 特別な記事
+### 🔧 ルートヘルパースクリプト
+プロジェクト全体を管理する共通ツール
+
+- `docbase_dev_helper.sh` - メイン開発ヘルパー（記事操作）
+- `docbase_tag_helper.sh` - タグ管理専用ヘルパー
+- `setup_docbase_env.sh` - 環境セットアップスクリプト
 
 ## 🚀 よく使うコマンド
 
 ### 基本的な記事更新
 ```bash
-cd /Users/g.ohorudingusu/Docbase/core
+cd 01_docbase_core
 ./update_docbase.sh
-```
-
-### LP欄生成
-```bash
-cd /Users/g.ohorudingusu/Docbase/lp_generator
-./run_lp_generator.sh
 ```
 
 ### FAQ管理
 ```bash
-cd /Users/g.ohorudingusu/Docbase/faq_tools
+cd 02_faq_management
 python faq_flag_manager.py
+```
+
+### 開発ヘルパー（ルートから実行）
+```bash
+# メイン開発ヘルパー
+./docbase_dev_helper.sh get <記事ID>        # 記事取得
+./docbase_dev_helper.sh update <記事ID> <ファイル>  # 記事更新
+./docbase_dev_helper.sh add-section <記事ID> <セクション名> <内容>  # セクション追加
+
+# タグ管理ヘルパー
+./docbase_tag_helper.sh tags               # 既存タグ一覧表示
+./docbase_tag_helper.sh create <タイトル> <ファイル>  # インタラクティブタグ選択で記事作成
 ```
 
 ## ⚙️ 環境設定
 
 ### 初回セットアップ
 ```bash
+# 環境セットアップスクリプトを実行
+./setup_docbase_env.sh
+
 # 仮想環境を有効化
-source /Users/g.ohorudingusu/Docbase/core/docbase_env/bin/activate
+source docbase_env/bin/activate
 
 # 環境変数を設定（.envファイル）
 DOCBASE_API_TOKEN=your_token

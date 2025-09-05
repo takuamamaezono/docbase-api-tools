@@ -63,18 +63,16 @@ class DocbaseHelper:
         if not article:
             return False
         
-        # 更新データを準備
+        # 更新データを準備（bodyのみ更新、tagsは絶対に送信しない）
         update_data = {
-            'title': title or article['title'],
-            'body': body or article['body'],
-            'tags': article['tags']
+            'body': body or article['body']
         }
         
-        # scopeがgroupの場合はgroupsも必要
-        if article.get('scope') == 'group':
-            group_ids = [group['id'] for group in article.get('groups', [])]
-            update_data['scope'] = 'group'
-            update_data['groups'] = group_ids
+        # タイトルが明示的に指定された場合のみ追加
+        if title is not None:
+            update_data['title'] = title
+        
+        # 注意: scope、groups、tagsは一切送信しない（Docbase APIが自動保持する）
         
         # 更新実行
         url = f"https://api.docbase.io/teams/{self.team}/posts/{article_id}"
@@ -155,7 +153,80 @@ class DocbaseHelper:
             print(f"❌ 記事一覧の取得に失敗しました: {response.status_code}")
             return None
     
-    def create_article(self, title, body, tags=None, scope='private'):
+    def get_all_tags(self):
+        """既存のタグ一覧を取得"""
+        url = f"https://api.docbase.io/teams/{self.team}/tags"
+        
+        print("🏷️ 既存タグを取得中...")
+        response = requests.get(url, headers=self.headers)
+        
+        if response.status_code == 200:
+            tags = response.json()
+            print(f"✅ {len(tags)} 件のタグを取得しました")
+            return tags
+        else:
+            print(f"❌ タグ一覧の取得に失敗しました: {response.status_code}")
+            return None
+    
+    def display_tags(self, tags):
+        """タグ一覧を見やすく表示"""
+        if not tags:
+            print("❌ 表示するタグがありません")
+            return
+        
+        print("\n🏷️ 利用可能なタグ:")
+        print("-" * 60)
+        for i, tag in enumerate(tags, 1):
+            # posts_countが無い場合は表示しない
+            if 'posts_count' in tag:
+                print(f"{i:3}. {tag['name']} ({tag['posts_count']}件)")
+            else:
+                print(f"{i:3}. {tag['name']}")
+        print("-" * 60)
+    
+    def select_tags_interactive(self, tags):
+        """インタラクティブなタグ選択"""
+        if not tags:
+            return []
+        
+        self.display_tags(tags)
+        
+        print("\n📝 タグ選択:")
+        print("• 番号をカンマ区切りで入力してください (例: 1,3,5)")
+        print("• Enterキーのみで選択せずに続行")
+        
+        try:
+            user_input = input("\n選択する番号: ").strip()
+            if not user_input:
+                return []
+            
+            # 番号をパース
+            selected_indices = []
+            for num_str in user_input.split(','):
+                try:
+                    num = int(num_str.strip())
+                    if 1 <= num <= len(tags):
+                        selected_indices.append(num - 1)
+                    else:
+                        print(f"⚠️ 無効な番号: {num}")
+                except ValueError:
+                    print(f"⚠️ 無効な入力: {num_str}")
+            
+            # 選択されたタグを取得
+            selected_tags = [tags[i]['name'] for i in selected_indices]
+            
+            if selected_tags:
+                print(f"✅ 選択されたタグ: {', '.join(selected_tags)}")
+            else:
+                print("ℹ️ タグは選択されませんでした")
+            
+            return selected_tags
+            
+        except KeyboardInterrupt:
+            print("\n❌ 操作がキャンセルされました")
+            return []
+    
+    def create_article(self, title, body, tags=None, scope='private', interactive_tags=True):
         """新規記事を作成"""
         url = f"https://api.docbase.io/teams/{self.team}/posts"
         
@@ -166,10 +237,36 @@ class DocbaseHelper:
             'scope': scope  # private = 従業員のみ（G.O / 加島）
         }
         
-        if tags:
-            if isinstance(tags, str):
-                tags = [tag.strip() for tag in tags.split(',')]
-            article_data['tags'] = tags
+        # タグの処理
+        if interactive_tags and not tags:
+            # 既存タグから選択
+            all_tags = self.get_all_tags()
+            if all_tags:
+                selected_tags = self.select_tags_interactive(all_tags)
+                if selected_tags:
+                    article_data['tags'] = selected_tags
+        elif tags:
+            # 指定されたタグを使用（既存チェック）
+            all_tags = self.get_all_tags()
+            if all_tags:
+                existing_tag_names = [tag['name'] for tag in all_tags]
+                
+                if isinstance(tags, str):
+                    tags = [tag.strip() for tag in tags.split(',')]
+                
+                # 既存タグのみを使用
+                valid_tags = []
+                for tag in tags:
+                    if tag in existing_tag_names:
+                        valid_tags.append(tag)
+                    else:
+                        print(f"⚠️ 存在しないタグをスキップ: {tag}")
+                
+                if valid_tags:
+                    article_data['tags'] = valid_tags
+                    print(f"✅ 既存タグを適用: {', '.join(valid_tags)}")
+                else:
+                    print("ℹ️ 有効なタグがありません")
         
         print(f"📝 新規記事「{title}」を作成中...")
         response = requests.post(url, headers=self.headers, json=article_data)
@@ -186,6 +283,10 @@ class DocbaseHelper:
             print(f"❌ 記事の作成に失敗しました: {response.status_code}")
             print(response.text)
             return None
+    
+    def create_article_with_tag_selection(self, title, body, scope='private'):
+        """既存タグ選択付きで新規記事を作成"""
+        return self.create_article(title, body, scope=scope, interactive_tags=True)
 
 def main():
     """コマンドライン引数を処理"""
@@ -197,6 +298,9 @@ def main():
         print("  python docbase_helper.py replace <記事ID> <old.txt> <new.txt>")
         print("  python docbase_helper.py list [検索キーワード]")
         print("  python docbase_helper.py create <タイトル> <bodyファイル> [タグ1,タグ2]")
+        print("  python docbase_helper.py create-interactive <タイトル> <bodyファイル>")
+        print("  python docbase_helper.py tags")
+        print("  python docbase_helper.py list-tags")
         sys.exit(1)
     
     helper = DocbaseHelper()
@@ -235,11 +339,26 @@ def main():
         tags = sys.argv[4] if len(sys.argv) >= 5 else None
         with open(body_file, 'r', encoding='utf-8') as f:
             body = f.read()
-        helper.create_article(title, body, tags=tags)
+        # 従来方式（既存タグチェック付き）
+        helper.create_article(title, body, tags=tags, interactive_tags=False)
+    
+    elif command == 'create-interactive' and len(sys.argv) >= 4:
+        title = sys.argv[2]
+        body_file = sys.argv[3]
+        with open(body_file, 'r', encoding='utf-8') as f:
+            body = f.read()
+        # インタラクティブタグ選択
+        helper.create_article_with_tag_selection(title, body)
     
     elif command == 'list':
         q = sys.argv[2] if len(sys.argv) >= 3 else None
         helper.list_articles(q=q)
+    
+    elif command in ['tags', 'list-tags']:
+        # タグ一覧を表示
+        tags = helper.get_all_tags()
+        if tags:
+            helper.display_tags(tags)
     
     else:
         print("❌ 無効なコマンドです")
